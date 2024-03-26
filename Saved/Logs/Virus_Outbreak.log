@@ -5365,3 +5365,1027 @@ UnknownFunction []
 [2024.03.26-21.37.33:360][321]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Reordered/Textures/Weapons/PickUps/Ammo/bullet_ammo_gif_Sprite_40_Auto2
 [2024.03.26-21.37.33:360][321]LogSavePackage: Moving '../../../../../../Users/WildBeast/Documents/Unreal Projects/Virus_Outbreak/Saved/bullet_ammo_gif_Sprite_40_Auto228FD090E45408994BD3C568078EB0A93.tmp' to '../../../../../../Users/WildBeast/Documents/Unreal Projects/Virus_Outbreak/Saved/Autosaves/Game/Reordered/Textures/Weapons/PickUps/Ammo/bullet_ammo_gif_Sprite_40_Auto2.uasset'
 [2024.03.26-21.37.33:361][321]LogFileHelpers: Auto-saving content packages took 0.213
+[2024.03.26-21.46.54:082][ 79]LogSlate: Window 'Revision Control Login' being destroyed
+[2024.03.26-21.47.32:787][ 26]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.03.26-21.48.11:324][752]LogDerivedDataCache: C:/Users/WildBeast/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.089 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 706 files in 1238 folders with total size 5 MiB.
+[2024.03.26-21.48.40:181][950]LogUObjectHash: Compacting FUObjectHashTables data took   3.02ms
+[2024.03.26-21.48.40:189][950]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Reordered/Levels/Outside_House_Weaponless' took 0.039
+[2024.03.26-21.48.40:189][950]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Reordered/Blueprints/Player/Player] ([2] browsable assets)...
+[2024.03.26-21.48.40:189][950]OBJ SavePackage: Finished generating thumbnails for package [/Game/Reordered/Blueprints/Player/Player]
+[2024.03.26-21.48.40:232][950]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Reordered/Blueprints/Player/Player_Auto3
+[2024.03.26-21.48.40:232][950]LogSavePackage: Moving '../../../../../../Users/WildBeast/Documents/Unreal Projects/Virus_Outbreak/Saved/Player_Auto3BEB4AC754258BA29A6C2B3A5996EC3F1.tmp' to '../../../../../../Users/WildBeast/Documents/Unreal Projects/Virus_Outbreak/Saved/Autosaves/Game/Reordered/Blueprints/Player/Player_Auto3.uasset'
+[2024.03.26-21.48.40:233][950]LogFileHelpers: Auto-saving content packages took 0.045
+[2024.03.26-21.48.42:158][959]LogInterchangeEngine: [Pending] Importing
+[2024.03.26-21.48.42:158][959]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/WildBeast/Downloads/you_died_screen_of.png]
+[2024.03.26-21.48.42:184][960]LogTexture: Display: Building textures: /Game/Reordered/Blueprints/Player/you_died_screen_of.you_died_screen_of (TFO_AutoDXT, 512x512 x1x1x1) (Required Memory Estimate: 45.145823 MB), EncodeSpeed: Fast
+[2024.03.26-21.48.42:192][960]LogInterchangeEngine: [Success] Import Done
+[2024.03.26-21.48.42:277][960]LogInterchangeEngine: [Success] Import Done
+[2024.03.26-21.48.47:160][998]LogTexture: Display: Building textures: /Game/Reordered/Blueprints/Player/you_died_screen_of.you_died_screen_of (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 7.72916 MB), EncodeSpeed: Fast
+[2024.03.26-21.48.58:203][276]LogSlate: Warning: Unable to rasterize '../../../Engine/Content/Editor/Slate/Starship/AssetIcons/SpecularProfile_64.svg'. File could not be found
+[2024.03.26-21.49.27:020][332]LogSlate: Window 'Pick Parent Class for New Widget Blueprint' being destroyed
+[2024.03.26-21.49.27:060][332]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2024.03.26-21.49.27:070][332]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2024.03.26-21.49.27:098][333]LogContentBrowser: Renaming the item being created (Deferred Item: NewWidgetBlueprint).
+[2024.03.26-21.49.31:400][463]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> You_Died
+[2024.03.26-21.49.31:410][463]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2024.03.26-21.49.32:736][493]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Reordered/Blueprints/Player/You_Died.You_Died
+[2024.03.26-21.49.32:736][493]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.26-21.49.32:736][493]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.26-21.49.32:796][493]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.26-21.49.32:797][493]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.26-21.49.32:813][493]LogSlate: Warning: The command 'UMGEditor.OpenAnimDrawer' has the same default chord as 'EditorViewport.Next' [Ctrl+Shift+Space Bar]
+[2024.03.26-21.49.33:248][493]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find SlateColor 'Foreground'.'
+[2024.03.26-21.49.33:256][493]LogSlate: Took 0.008407 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2024.03.26-21.50.02:860][992]BlueprintLog: New page: Compile You_Died
+[2024.03.26-21.50.02:906][992]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2024.03.26-21.50.04:258][ 15]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.26-21.50.04:404][ 15]LogSavePackage: Moving output files for package: /Game/Reordered/Blueprints/Player/You_Died
+[2024.03.26-21.50.04:404][ 15]LogSavePackage: Moving '../../../../../../Users/WildBeast/Documents/Unreal Projects/Virus_Outbreak/Saved/You_Died6F49E0384ED7A7417C971BB76D734BFC.tmp' to '../../../../../../Users/WildBeast/Documents/Unreal Projects/Virus_Outbreak/Content/Reordered/Blueprints/Player/You_Died.uasset'
+[2024.03.26-21.50.04:436][ 15]LogFileHelpers: InternalPromptForCheckoutAndSave took 177 ms (total: 2.11 sec)
+[2024.03.26-21.50.04:436][ 15]AssetCheck: New page: Asset Save: You_Died
+[2024.03.26-21.50.04:436][ 15]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Reordered/Blueprints/Player/You_Died.You_Died
+[2024.03.26-21.50.34:128][598]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Reordered/Blueprints/WeaponPickUp.WeaponPickUp
+[2024.03.26-21.50.34:129][598]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.26-21.50.34:129][598]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.26-21.51.40:253][690]LogEditorTransaction: Undo Move Node
+[2024.03.26-21.52.19:498][337]BlueprintLog: New page: Compile Player
+[2024.03.26-21.52.19:545][337]LogBlueprint: Error: [AssetLog] C:\Users\WildBeast\Documents\Unreal Projects\Virus_Outbreak\Content\Reordered\Blueprints\Player\Player.uasset: [Compiler] This blueprint (self) is not a UserWidget, therefore ' Target ' must have a connection.
+[2024.03.26-21.52.19:598][337]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2024.03.26-21.52.42:905][766]BlueprintLog: New page: Compile Player
+[2024.03.26-21.52.43:016][766]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2024.03.26-21.52.45:395][812]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.03.26-21.52.45:409][812]BlueprintLog: New page: Pre-Play auto-recompile
+[2024.03.26-21.52.45:410][812]LogPlayLevel: [PlayLevel] Compiling WeaponPickUp before play...
+[2024.03.26-21.52.45:487][812]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2024.03.26-21.52.45:497][812]LogPlayLevel: PlayLevel: Blueprint regeneration took 88 ms (1 blueprints)
+[2024.03.26-21.52.45:497][812]PIE: New page: PIE session: Outside_House_Weaponless (27 Mar 2024, 01:52:45)
+[2024.03.26-21.52.45:497][812]LogPlayLevel: Creating play world package: /Game/Reordered/Levels/UEDPIE_0_Outside_House_Weaponless
+[2024.03.26-21.52.45:502][812]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004897s)
+[2024.03.26-21.52.45:502][812]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Reordered/Levels/Outside_House_Weaponless.Outside_House_Weaponless to /Game/Reordered/Levels/UEDPIE_0_Outside_House_Weaponless.Outside_House_Weaponless (0.004938s)
+[2024.03.26-21.52.45:524][812]LogUObjectHash: Compacting FUObjectHashTables data took   2.29ms
+[2024.03.26-21.52.45:526][812]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.26-21.52.45:526][812]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.26-21.52.45:527][812]LogAIModule: Creating AISystem for world Outside_House_Weaponless
+[2024.03.26-21.52.45:527][812]LogPlayLevel: PIE: World Init took: (0.001138s)
+[2024.03.26-21.52.45:527][812]LogAudio: Display: Creating Audio Device:                 Id: 55, Scope: Unique, Realtime: True
+[2024.03.26-21.52.45:527][812]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.03.26-21.52.45:527][812]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.03.26-21.52.45:527][812]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.03.26-21.52.45:527][812]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.03.26-21.52.45:527][812]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.03.26-21.52.45:527][812]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.03.26-21.52.45:527][812]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.03.26-21.52.45:527][812]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.03.26-21.52.45:528][812]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.03.26-21.52.45:528][812]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.03.26-21.52.45:528][812]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.03.26-21.52.45:530][812]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.03.26-21.52.45:545][812]LogAudioMixer: Display: Using Audio Hardware Device Headphones (High Definition Audio Device)
+[2024.03.26-21.52.45:545][812]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.03.26-21.52.45:545][812]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.03.26-21.52.45:545][812]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.03.26-21.52.45:546][812]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=55
+[2024.03.26-21.52.45:546][812]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=55
+[2024.03.26-21.52.45:549][812]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=55
+[2024.03.26-21.52.45:549][812]LogInit: FAudioDevice initialized with ID 55.
+[2024.03.26-21.52.45:549][812]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=55
+[2024.03.26-21.52.45:549][812]LogAudio: Display: Audio Device (ID: 55) registered with world 'Outside_House_Weaponless'.
+[2024.03.26-21.52.45:549][812]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 55
+[2024.03.26-21.52.45:553][812]LogLoad: Game class is 'GameMode_C'
+[2024.03.26-21.52.45:564][812]LogWorld: Bringing World /Game/Reordered/Levels/UEDPIE_0_Outside_House_Weaponless.Outside_House_Weaponless up for play (max tick rate 60) at 2024.03.26-23.52.45
+[2024.03.26-21.52.45:566][812]LogWorld: Bringing up level for play took: 0.011959
+[2024.03.26-21.52.45:569][812]LogOnline: OSS: Created online subsystem instance for: :Context_68
+[2024.03.26-21.52.45:684][812]PIE: Server logged in
+[2024.03.26-21.52.45:685][812]PIE: Play in editor total start time 0.277 seconds.
+[2024.03.26-21.52.55:854][115]LogNet: Browse: /Game/Reordered/Levels/Outside_House_Weaponless
+[2024.03.26-21.52.55:854][115]LogLoad: LoadMap: /Game/Reordered/Levels/Outside_House_Weaponless
+[2024.03.26-21.52.55:854][115]LogWorld: BeginTearingDown for /Game/Reordered/Levels/UEDPIE_0_Outside_House_Weaponless
+[2024.03.26-21.52.55:855][115]LogWorld: UWorld::CleanupWorld for Outside_House_Weaponless, bSessionEnded=true, bCleanupResources=true
+[2024.03.26-21.52.55:855][115]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.26-21.52.55:875][115]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.03.26-21.52.55:889][115]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2024.03.26-21.52.55:903][115]LogPlayLevel: Creating play world package: /Game/Reordered/Levels/UEDPIE_0_Outside_House_Weaponless
+[2024.03.26-21.52.55:908][115]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005009s)
+[2024.03.26-21.52.55:908][115]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Reordered/Levels/Outside_House_Weaponless.Outside_House_Weaponless to /Game/Reordered/Levels/UEDPIE_0_Outside_House_Weaponless.Outside_House_Weaponless (0.005070s)
+[2024.03.26-21.52.55:908][115]LogAudio: Display: Audio Device (ID: 55) registered with world 'Outside_House_Weaponless'.
+[2024.03.26-21.52.55:908][115]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.26-21.52.55:909][115]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.26-21.52.55:909][115]LogAIModule: Creating AISystem for world Outside_House_Weaponless
+[2024.03.26-21.52.55:909][115]LogPlayLevel: PIE: World Init took: (0.000992s)
+[2024.03.26-21.52.55:909][115]LogLoad: Game class is 'GameMode_C'
+[2024.03.26-21.52.55:918][115]LogWorld: Bringing World /Game/Reordered/Levels/UEDPIE_0_Outside_House_Weaponless.Outside_House_Weaponless up for play (max tick rate 60) at 2024.03.26-23.52.55
+[2024.03.26-21.52.55:919][115]LogWorld: Bringing up level for play took: 0.009391
+[2024.03.26-21.52.56:009][115]LogLoad: Took 0.154709 seconds to LoadMap(/Game/Reordered/Levels/UEDPIE_0_Outside_House_Weaponless)
+[2024.03.26-21.52.58:818][191]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.26-21.52.58:818][191]LogWorld: BeginTearingDown for /Game/Reordered/Levels/UEDPIE_0_Outside_House_Weaponless
+[2024.03.26-21.52.58:819][191]LogWorld: UWorld::CleanupWorld for Outside_House_Weaponless, bSessionEnded=true, bCleanupResources=true
+[2024.03.26-21.52.58:819][191]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.26-21.52.58:840][191]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.03.26-21.52.58:845][191]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.26-21.52.58:866][191]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.26-21.52.58:867][191]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 55
+[2024.03.26-21.52.58:867][191]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=55
+[2024.03.26-21.52.58:869][191]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=55
+[2024.03.26-21.52.58:879][191]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2024.03.26-21.52.59:008][192]LogClass: Warning: Short type name "PrimitiveComponent" provided for TryFindType. Please convert it to a path name (suggested: "/Script/Engine.PrimitiveComponent"). Callstack:
+
+UnknownFunction []
+UnknownFunction []
+`FPaperZDComponentReferenceCustomization::BuildClassFilters'::`2'::<lambda_2>::operator()() [D:\build\U5M-Marketplace\Sync\LocalBuilds\PluginTemp\HostProject\Plugins\PaperZD\Source\PaperZDEditor\Private\Editors\DetailCustomizations\PaperZDComponentReferenceCustomization.cpp:183]
+FPaperZDComponentReferenceCustomization::CustomizeHeader() [D:\build\U5M-Marketplace\Sync\LocalBuilds\PluginTemp\HostProject\Plugins\PaperZD\Source\PaperZDEditor\Private\Editors\DetailCustomizations\PaperZDComponentReferenceCustomization.cpp:91]
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+
+[2024.03.26-21.52.59:074][192]LogPlayLevel: Display: Destroying online subsystem :Context_68
+[2024.03.26-21.58.54:254][292]LogUObjectHash: Compacting FUObjectHashTables data took   2.57ms
+[2024.03.26-21.58.54:274][292]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Reordered/Levels/Outside_House_Weaponless_Auto4
+[2024.03.26-21.58.54:275][292]LogSavePackage: Moving '../../../../../../Users/WildBeast/Documents/Unreal Projects/Virus_Outbreak/Saved/Outside_House_Weaponless_Auto4765673B344099F5234F87BBE0C3E74D1.tmp' to '../../../../../../Users/WildBeast/Documents/Unreal Projects/Virus_Outbreak/Saved/Autosaves/Game/Reordered/Levels/Outside_House_Weaponless_Auto4.umap'
+[2024.03.26-21.58.54:277][292]LogAssetRegistry: Warning: ScanPathsSynchronous: ../../../../../../Users/WildBeast/Documents/Unreal Projects/Virus_Outbreak/Saved/Autosaves/Game/Reordered/Levels/Outside_House_Weaponless_Auto4.umap is in the /Temp path, will not scan.
+[2024.03.26-21.58.54:277][292]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Reordered/Levels/Outside_House_Weaponless' took 0.048
+[2024.03.26-21.58.54:277][292]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.048
+[2024.03.26-21.58.54:277][292]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Testing_Enemy/Spike/Master_Actor] ([2] browsable assets)...
+[2024.03.26-21.58.54:277][292]OBJ SavePackage: Finished generating thumbnails for package [/Game/Testing_Enemy/Spike/Master_Actor]
+[2024.03.26-21.58.54:283][292]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Testing_Enemy/Spike/Master_Actor_Auto4
+[2024.03.26-21.58.54:283][292]LogSavePackage: Moving '../../../../../../Users/WildBeast/Documents/Unreal Projects/Virus_Outbreak/Saved/Master_Actor_Auto4B34C0A3341831189053BD2BE2CF0F7A7.tmp' to '../../../../../../Users/WildBeast/Documents/Unreal Projects/Virus_Outbreak/Saved/Autosaves/Game/Testing_Enemy/Spike/Master_Actor_Auto4.uasset'
+[2024.03.26-21.58.54:284][292]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Reordered/Blueprints/Player/Player] ([2] browsable assets)...
+[2024.03.26-21.58.54:284][292]OBJ SavePackage: Finished generating thumbnails for package [/Game/Reordered/Blueprints/Player/Player]
+[2024.03.26-21.58.54:323][292]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Reordered/Blueprints/Player/Player_Auto4
+[2024.03.26-21.58.54:323][292]LogSavePackage: Moving '../../../../../../Users/WildBeast/Documents/Unreal Projects/Virus_Outbreak/Saved/Player_Auto42704BAE44DF89643C9E845B322848456.tmp' to '../../../../../../Users/WildBeast/Documents/Unreal Projects/Virus_Outbreak/Saved/Autosaves/Game/Reordered/Blueprints/Player/Player_Auto4.uasset'
+[2024.03.26-21.58.54:325][292]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Reordered/Blueprints/HealthPickUp] ([2] browsable assets)...
+[2024.03.26-21.58.54:325][292]OBJ SavePackage: Finished generating thumbnails for package [/Game/Reordered/Blueprints/HealthPickUp]
+[2024.03.26-21.58.54:338][292]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Reordered/Blueprints/HealthPickUp_Auto4
+[2024.03.26-21.58.54:338][292]LogSavePackage: Moving '../../../../../../Users/WildBeast/Documents/Unreal Projects/Virus_Outbreak/Saved/HealthPickUp_Auto4393D2E4349DCABC130A6C4AC9FE3BDB0.tmp' to '../../../../../../Users/WildBeast/Documents/Unreal Projects/Virus_Outbreak/Saved/Autosaves/Game/Reordered/Blueprints/HealthPickUp_Auto4.uasset'
+[2024.03.26-21.58.54:339][292]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Reordered/Textures/Weapons/PickUps/Ammo/bullet_ammo_gif] ([1] browsable assets)...
+[2024.03.26-21.58.54:339][292]OBJ SavePackage: Finished generating thumbnails for package [/Game/Reordered/Textures/Weapons/PickUps/Ammo/bullet_ammo_gif]
+[2024.03.26-21.58.54:341][292]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Reordered/Textures/Weapons/PickUps/Ammo/bullet_ammo_gif_Auto4
+[2024.03.26-21.58.54:341][292]LogSavePackage: Moving '../../../../../../Users/WildBeast/Documents/Unreal Projects/Virus_Outbreak/Saved/bullet_ammo_gif_Auto4452E325F498E57AC5987C08FC50295DC.tmp' to '../../../../../../Users/WildBeast/Documents/Unreal Projects/Virus_Outbreak/Saved/Autosaves/Game/Reordered/Textures/Weapons/PickUps/Ammo/bullet_ammo_gif_Auto4.uasset'
+[2024.03.26-21.58.54:343][292]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Reordered/Textures/Weapons/PickUps/Ammo/bullet_ammo_gif_Sprite_0] ([1] browsable assets)...
+[2024.03.26-21.58.54:343][292]OBJ SavePackage: Finished generating thumbnails for package [/Game/Reordered/Textures/Weapons/PickUps/Ammo/bullet_ammo_gif_Sprite_0]
+[2024.03.26-21.58.54:344][292]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Reordered/Textures/Weapons/PickUps/Ammo/bullet_ammo_gif_Sprite_0_Auto4
+[2024.03.26-21.58.54:344][292]LogSavePackage: Moving '../../../../../../Users/WildBeast/Documents/Unreal Projects/Virus_Outbreak/Saved/bullet_ammo_gif_Sprite_0_Auto45666E56A476CCA3E250EB18A0192136E.tmp' to '../../../../../../Users/WildBeast/Documents/Unreal Projects/Virus_Outbreak/Saved/Autosaves/Game/Reordered/Textures/Weapons/PickUps/Ammo/bullet_ammo_gif_Sprite_0_Auto4.uasset'
+[2024.03.26-21.58.54:346][292]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Reordered/Textures/Weapons/PickUps/Ammo/bullet_ammo_gif_Sprite_1] ([1] browsable assets)...
+[2024.03.26-21.58.54:346][292]OBJ SavePackage: Finished generating thumbnails for package [/Game/Reordered/Textures/Weapons/PickUps/Ammo/bullet_ammo_gif_Sprite_1]
+[2024.03.26-21.58.54:348][292]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Reordered/Textures/Weapons/PickUps/Ammo/bullet_ammo_gif_Sprite_1_Auto4
+[2024.03.26-21.58.54:348][292]LogSavePackage: Moving '../../../../../../Users/WildBeast/Documents/Unreal Projects/Virus_Outbreak/Saved/bullet_ammo_gif_Sprite_1_Auto4C648F53C4B3A7C984C9CB0876C749EA4.tmp' to '../../../../../../Users/WildBeast/Documents/Unreal Projects/Virus_Outbreak/Saved/Autosaves/Game/Reordered/Textures/Weapons/PickUps/Ammo/bullet_ammo_gif_Sprite_1_Auto4.uasset'
+[2024.03.26-21.58.54:350][292]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Reordered/Textures/Weapons/PickUps/Ammo/bullet_ammo_gif_Sprite_2] ([1] browsable assets)...
+[2024.03.26-21.58.54:350][292]OBJ SavePackage: Finished generating thumbnails for package [/Game/Reordered/Textures/Weapons/PickUps/Ammo/bullet_ammo_gif_Sprite_2]
+[2024.03.26-21.58.54:352][292]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Reordered/Textures/Weapons/PickUps/Ammo/bullet_ammo_gif_Sprite_2_Auto4
+[2024.03.26-21.58.54:352][292]LogSavePackage: Moving '../../../../../../Users/WildBeast/Documents/Unreal Projects/Virus_Outbreak/Saved/bullet_ammo_gif_Sprite_2_Auto499FA7E8D4D63EC0BFB364D8FAE65B92D.tmp' to '../../../../../../Users/WildBeast/Documents/Unreal Projects/Virus_Outbreak/Saved/Autosaves/Game/Reordered/Textures/Weapons/PickUps/Ammo/bullet_ammo_gif_Sprite_2_Auto4.uasset'
+[2024.03.26-21.58.54:353][292]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Reordered/Textures/Weapons/PickUps/Ammo/bullet_ammo_gif_Sprite_3] ([1] browsable assets)...
+[2024.03.26-21.58.54:353][292]OBJ SavePackage: Finished generating thumbnails for package [/Game/Reordered/Textures/Weapons/PickUps/Ammo/bullet_ammo_gif_Sprite_3]
+[2024.03.26-21.58.54:355][292]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Reordered/Textures/Weapons/PickUps/Ammo/bullet_ammo_gif_Sprite_3_Auto4
+[2024.03.26-21.58.54:355][292]LogSavePackage: Moving '../../../../../../Users/WildBeast/Documents/Unreal Projects/Virus_Outbreak/Saved/bullet_ammo_gif_Sprite_3_Auto4B526F8514E10C3933883DC81BFD203F5.tmp' to '../../../../../../Users/WildBeast/Documents/Unreal Projects/Virus_Outbreak/Saved/Autosaves/Game/Reordered/Textures/Weapons/PickUps/Ammo/bullet_ammo_gif_Sprite_3_Auto4.uasset'
+[2024.03.26-21.58.54:357][292]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Reordered/Textures/Weapons/PickUps/Ammo/bullet_ammo_gif_Sprite_4] ([1] browsable assets)...
+[2024.03.26-21.58.54:357][292]OBJ SavePackage: Finished generating thumbnails for package [/Game/Reordered/Textures/Weapons/PickUps/Ammo/bullet_ammo_gif_Sprite_4]
+[2024.03.26-21.58.54:359][292]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Reordered/Textures/Weapons/PickUps/Ammo/bullet_ammo_gif_Sprite_4_Auto4
+[2024.03.26-21.58.54:359][292]LogSavePackage: Moving '../../../../../../Users/WildBeast/Documents/Unreal Projects/Virus_Outbreak/Saved/bullet_ammo_gif_Sprite_4_Auto4485FDBC041D62915EBF6488B3399B9C4.tmp' to '../../../../../../Users/WildBeast/Documents/Unreal Projects/Virus_Outbreak/Saved/Autosaves/Game/Reordered/Textures/Weapons/PickUps/Ammo/bullet_ammo_gif_Sprite_4_Auto4.uasset'
+[2024.03.26-21.58.54:361][292]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Reordered/Textures/Weapons/PickUps/Ammo/bullet_ammo_gif_Sprite_5] ([1] browsable assets)...
+[2024.03.26-21.58.54:361][292]OBJ SavePackage: Finished generating thumbnails for package [/Game/Reordered/Textures/Weapons/PickUps/Ammo/bullet_ammo_gif_Sprite_5]
+[2024.03.26-21.58.54:364][292]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Reordered/Textures/Weapons/PickUps/Ammo/bullet_ammo_gif_Sprite_5_Auto4
+[2024.03.26-21.58.54:364][292]LogSavePackage: Moving '../../../../../../Users/WildBeast/Documents/Unreal Projects/Virus_Outbreak/Saved/bullet_ammo_gif_Sprite_5_Auto4E549CA51417BDA9DE177998DB49970E1.tmp' to '../../../../../../Users/WildBeast/Documents/Unreal Projects/Virus_Outbreak/Saved/Autosaves/Game/Reordered/Textures/Weapons/PickUps/Ammo/bullet_ammo_gif_Sprite_5_Auto4.uasset'
+[2024.03.26-21.58.54:366][292]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Reordered/Textures/Weapons/PickUps/Ammo/bullet_ammo_gif_Sprite_6] ([1] browsable assets)...
+[2024.03.26-21.58.54:366][292]OBJ SavePackage: Finished generating thumbnails for package [/Game/Reordered/Textures/Weapons/PickUps/Ammo/bullet_ammo_gif_Sprite_6]
+[2024.03.26-21.58.54:369][292]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Reordered/Textures/Weapons/PickUps/Ammo/bullet_ammo_gif_Sprite_6_Auto4
+[2024.03.26-21.58.54:369][292]LogSavePackage: Moving '../../../../../../Users/WildBeast/Documents/Unreal Projects/Virus_Outbreak/Saved/bullet_ammo_gif_Sprite_6_Auto48CFC5F76463DD4D88DAE2C8418BD5909.tmp' to '../../../../../../Users/WildBeast/Documents/Unreal Projects/Virus_Outbreak/Saved/Autosaves/Game/Reordered/Textures/Weapons/PickUps/Ammo/bullet_ammo_gif_Sprite_6_Auto4.uasset'
+[2024.03.26-21.58.54:371][292]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Reordered/Textures/Weapons/PickUps/Ammo/bullet_ammo_gif_Sprite_7] ([1] browsable assets)...
+[2024.03.26-21.58.54:371][292]OBJ SavePackage: Finished generating thumbnails for package [/Game/Reordered/Textures/Weapons/PickUps/Ammo/bullet_ammo_gif_Sprite_7]
+[2024.03.26-21.58.54:373][292]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Reordered/Textures/Weapons/PickUps/Ammo/bullet_ammo_gif_Sprite_7_Auto4
+[2024.03.26-21.58.54:373][292]LogSavePackage: Moving '../../../../../../Users/WildBeast/Documents/Unreal Projects/Virus_Outbreak/Saved/bullet_ammo_gif_Sprite_7_Auto4DE80B1AE4E2F2E545B6BC7A3406D778D.tmp' to '../../../../../../Users/WildBeast/Documents/Unreal Projects/Virus_Outbreak/Saved/Autosaves/Game/Reordered/Textures/Weapons/PickUps/Ammo/bullet_ammo_gif_Sprite_7_Auto4.uasset'
+[2024.03.26-21.58.54:376][292]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Reordered/Textures/Weapons/PickUps/Ammo/bullet_ammo_gif_Sprite_8] ([1] browsable assets)...
+[2024.03.26-21.58.54:376][292]OBJ SavePackage: Finished generating thumbnails for package [/Game/Reordered/Textures/Weapons/PickUps/Ammo/bullet_ammo_gif_Sprite_8]
+[2024.03.26-21.58.54:378][292]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Reordered/Textures/Weapons/PickUps/Ammo/bullet_ammo_gif_Sprite_8_Auto4
+[2024.03.26-21.58.54:378][292]LogSavePackage: Moving '../../../../../../Users/WildBeast/Documents/Unreal Projects/Virus_Outbreak/Saved/bullet_ammo_gif_Sprite_8_Auto4DE63DC2944A833B718D501A9A966C07E.tmp' to '../../../../../../Users/WildBeast/Documents/Unreal Projects/Virus_Outbreak/Saved/Autosaves/Game/Reordered/Textures/Weapons/PickUps/Ammo/bullet_ammo_gif_Sprite_8_Auto4.uasset'
+[2024.03.26-21.58.54:380][292]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Reordered/Textures/Weapons/PickUps/Ammo/bullet_ammo_gif_Sprite_9] ([1] browsable assets)...
+[2024.03.26-21.58.54:380][292]OBJ SavePackage: Finished generating thumbnails for package [/Game/Reordered/Textures/Weapons/PickUps/Ammo/bullet_ammo_gif_Sprite_9]
+[2024.03.26-21.58.54:382][292]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Reordered/Textures/Weapons/PickUps/Ammo/bullet_ammo_gif_Sprite_9_Auto4
+[2024.03.26-21.58.54:382][292]LogSavePackage: Moving '../../../../../../Users/WildBeast/Documents/Unreal Projects/Virus_Outbreak/Saved/bullet_ammo_gif_Sprite_9_Auto4C32A0FBA4C8E4E055F22729F6213F4F6.tmp' to '../../../../../../Users/WildBeast/Documents/Unreal Projects/Virus_Outbreak/Saved/Autosaves/Game/Reordered/Textures/Weapons/PickUps/Ammo/bullet_ammo_gif_Sprite_9_Auto4.uasset'
+[2024.03.26-21.58.54:384][292]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Reordered/Textures/Weapons/PickUps/Ammo/bullet_ammo_gif_Sprite_10] ([1] browsable assets)...
+[2024.03.26-21.58.54:384][292]OBJ SavePackage: Finished generating thumbnails for package [/Game/Reordered/Textures/Weapons/PickUps/Ammo/bullet_ammo_gif_Sprite_10]
+[2024.03.26-21.58.54:387][292]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Reordered/Textures/Weapons/PickUps/Ammo/bullet_ammo_gif_Sprite_10_Auto4
+[2024.03.26-21.58.54:387][292]LogSavePackage: Moving '../../../../../../Users/WildBeast/Documents/Unreal Projects/Virus_Outbreak/Saved/bullet_ammo_gif_Sprite_10_Auto4C082D8214F3463332C8A4A8E8155FE7E.tmp' to '../../../../../../Users/WildBeast/Documents/Unreal Projects/Virus_Outbreak/Saved/Autosaves/Game/Reordered/Textures/Weapons/PickUps/Ammo/bullet_ammo_gif_Sprite_10_Auto4.uasset'
+[2024.03.26-21.58.54:390][292]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Reordered/Textures/Weapons/PickUps/Ammo/bullet_ammo_gif_Sprite_11] ([1] browsable assets)...
+[2024.03.26-21.58.54:390][292]OBJ SavePackage: Finished generating thumbnails for package [/Game/Reordered/Textures/Weapons/PickUps/Ammo/bullet_ammo_gif_Sprite_11]
+[2024.03.26-21.58.54:393][292]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Reordered/Textures/Weapons/PickUps/Ammo/bullet_ammo_gif_Sprite_11_Auto4
+[2024.03.26-21.58.54:393][292]LogSavePackage: Moving '../../../../../../Users/WildBeast/Documents/Unreal Projects/Virus_Outbreak/Saved/bullet_ammo_gif_Sprite_11_Auto432AC37B3498E1E3A192EBC9A63288303.tmp' to '../../../../../../Users/WildBeast/Documents/Unreal Projects/Virus_Outbreak/Saved/Autosaves/Game/Reordered/Textures/Weapons/PickUps/Ammo/bullet_ammo_gif_Sprite_11_Auto4.uasset'
+[2024.03.26-21.58.54:397][292]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Reordered/Textures/Weapons/PickUps/Ammo/bullet_ammo_gif_Sprite_12] ([1] browsable assets)...
+[2024.03.26-21.58.54:397][292]OBJ SavePackage: Finished generating thumbnails for package [/Game/Reordered/Textures/Weapons/PickUps/Ammo/bullet_ammo_gif_Sprite_12]
+[2024.03.26-21.58.54:399][292]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Reordered/Textures/Weapons/PickUps/Ammo/bullet_ammo_gif_Sprite_12_Auto4
+[2024.03.26-21.58.54:399][292]LogSavePackage: Moving '../../../../../../Users/WildBeast/Documents/Unreal Projects/Virus_Outbreak/Saved/bullet_ammo_gif_Sprite_12_Auto498302F2E4B4C1463E1DD90BB91ECA2C2.tmp' to '../../../../../../Users/WildBeast/Documents/Unreal Projects/Virus_Outbreak/Saved/Autosaves/Game/Reordered/Textures/Weapons/PickUps/Ammo/bullet_ammo_gif_Sprite_12_Auto4.uasset'
+[2024.03.26-21.58.54:401][292]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Reordered/Textures/Weapons/PickUps/Ammo/bullet_ammo_gif_Sprite_13] ([1] browsable assets)...
+[2024.03.26-21.58.54:401][292]OBJ SavePackage: Finished generating thumbnails for package [/Game/Reordered/Textures/Weapons/PickUps/Ammo/bullet_ammo_gif_Sprite_13]
+[2024.03.26-21.58.54:403][292]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Reordered/Textures/Weapons/PickUps/Ammo/bullet_ammo_gif_Sprite_13_Auto4
+[2024.03.26-21.58.54:404][292]LogSavePackage: Moving '../../../../../../Users/WildBeast/Documents/Unreal Projects/Virus_Outbreak/Saved/bullet_ammo_gif_Sprite_13_Auto4DE4C65A74BD5178CB8242DA4978462A5.tmp' to '../../../../../../Users/WildBeast/Documents/Unreal Projects/Virus_Outbreak/Saved/Autosaves/Game/Reordered/Textures/Weapons/PickUps/Ammo/bullet_ammo_gif_Sprite_13_Auto4.uasset'
+[2024.03.26-21.58.54:405][292]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Reordered/Textures/Weapons/PickUps/Ammo/bullet_ammo_gif_Sprite_14] ([1] browsable assets)...
+[2024.03.26-21.58.54:405][292]OBJ SavePackage: Finished generating thumbnails for package [/Game/Reordered/Textures/Weapons/PickUps/Ammo/bullet_ammo_gif_Sprite_14]
+[2024.03.26-21.58.54:407][292]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Reordered/Textures/Weapons/PickUps/Ammo/bullet_ammo_gif_Sprite_14_Auto4
+[2024.03.26-21.58.54:407][292]LogSavePackage: Moving '../../../../../../Users/WildBeast/Documents/Unreal Projects/Virus_Outbreak/Saved/bullet_ammo_gif_Sprite_14_Auto4B39D2E2E4564CE414F1716847C58812C.tmp' to '../../../../../../Users/WildBeast/Documents/Unreal Projects/Virus_Outbreak/Saved/Autosaves/Game/Reordered/Textures/Weapons/PickUps/Ammo/bullet_ammo_gif_Sprite_14_Auto4.uasset'
+[2024.03.26-21.58.54:409][292]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Reordered/Textures/Weapons/PickUps/Ammo/bullet_ammo_gif_Sprite_15] ([1] browsable assets)...
+[2024.03.26-21.58.54:409][292]OBJ SavePackage: Finished generating thumbnails for package [/Game/Reordered/Textures/Weapons/PickUps/Ammo/bullet_ammo_gif_Sprite_15]
+[2024.03.26-21.58.54:411][292]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Reordered/Textures/Weapons/PickUps/Ammo/bullet_ammo_gif_Sprite_15_Auto4
+[2024.03.26-21.58.54:412][292]LogSavePackage: Moving '../../../../../../Users/WildBeast/Documents/Unreal Projects/Virus_Outbreak/Saved/bullet_ammo_gif_Sprite_15_Auto4FC3ED5EE4AA56AEED3E3CCA6226AB91A.tmp' to '../../../../../../Users/WildBeast/Documents/Unreal Projects/Virus_Outbreak/Saved/Autosaves/Game/Reordered/Textures/Weapons/PickUps/Ammo/bullet_ammo_gif_Sprite_15_Auto4.uasset'
+[2024.03.26-21.58.54:413][292]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Reordered/Textures/Weapons/PickUps/Ammo/bullet_ammo_gif_Sprite_16] ([1] browsable assets)...
+[2024.03.26-21.58.54:413][292]OBJ SavePackage: Finished generating thumbnails for package [/Game/Reordered/Textures/Weapons/PickUps/Ammo/bullet_ammo_gif_Sprite_16]
+[2024.03.26-21.58.54:416][292]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Reordered/Textures/Weapons/PickUps/Ammo/bullet_ammo_gif_Sprite_16_Auto4
+[2024.03.26-21.58.54:416][292]LogSavePackage: Moving '../../../../../../Users/WildBeast/Documents/Unreal Projects/Virus_Outbreak/Saved/bullet_ammo_gif_Sprite_16_Auto4E12366154BCE773533F4F4ABC269A398.tmp' to '../../../../../../Users/WildBeast/Documents/Unreal Projects/Virus_Outbreak/Saved/Autosaves/Game/Reordered/Textures/Weapons/PickUps/Ammo/bullet_ammo_gif_Sprite_16_Auto4.uasset'
+[2024.03.26-21.58.54:418][292]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Reordered/Textures/Weapons/PickUps/Ammo/bullet_ammo_gif_Sprite_17] ([1] browsable assets)...
+[2024.03.26-21.58.54:418][292]OBJ SavePackage: Finished generating thumbnails for package [/Game/Reordered/Textures/Weapons/PickUps/Ammo/bullet_ammo_gif_Sprite_17]
+[2024.03.26-21.58.54:420][292]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Reordered/Textures/Weapons/PickUps/Ammo/bullet_ammo_gif_Sprite_17_Auto4
+[2024.03.26-21.58.54:420][292]LogSavePackage: Moving '../../../../../../Users/WildBeast/Documents/Unreal Projects/Virus_Outbreak/Saved/bullet_ammo_gif_Sprite_17_Auto4C7C56BC44B0560594C45458905506421.tmp' to '../../../../../../Users/WildBeast/Documents/Unreal Projects/Virus_Outbreak/Saved/Autosaves/Game/Reordered/Textures/Weapons/PickUps/Ammo/bullet_ammo_gif_Sprite_17_Auto4.uasset'
+[2024.03.26-21.58.54:422][292]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Reordered/Textures/Weapons/PickUps/Ammo/bullet_ammo_gif_Sprite_18] ([1] browsable assets)...
+[2024.03.26-21.58.54:422][292]OBJ SavePackage: Finished generating thumbnails for package [/Game/Reordered/Textures/Weapons/PickUps/Ammo/bullet_ammo_gif_Sprite_18]
+[2024.03.26-21.58.54:424][292]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Reordered/Textures/Weapons/PickUps/Ammo/bullet_ammo_gif_Sprite_18_Auto4
+[2024.03.26-21.58.54:424][292]LogSavePackage: Moving '../../../../../../Users/WildBeast/Documents/Unreal Projects/Virus_Outbreak/Saved/bullet_ammo_gif_Sprite_18_Auto4698631EE49DF97D61F62E189033C87EB.tmp' to '../../../../../../Users/WildBeast/Documents/Unreal Projects/Virus_Outbreak/Saved/Autosaves/Game/Reordered/Textures/Weapons/PickUps/Ammo/bullet_ammo_gif_Sprite_18_Auto4.uasset'
+[2024.03.26-21.58.54:426][292]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Reordered/Textures/Weapons/PickUps/Ammo/bullet_ammo_gif_Sprite_19] ([1] browsable assets)...
+[2024.03.26-21.58.54:426][292]OBJ SavePackage: Finished generating thumbnails for package [/Game/Reordered/Textures/Weapons/PickUps/Ammo/bullet_ammo_gif_Sprite_19]
+[2024.03.26-21.58.54:429][292]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Reordered/Textures/Weapons/PickUps/Ammo/bullet_ammo_gif_Sprite_19_Auto4
+[2024.03.26-21.58.54:429][292]LogSavePackage: Moving '../../../../../../Users/WildBeast/Documents/Unreal Projects/Virus_Outbreak/Saved/bullet_ammo_gif_Sprite_19_Auto4FFC914554A578B11E737EB8DE84B57A9.tmp' to '../../../../../../Users/WildBeast/Documents/Unreal Projects/Virus_Outbreak/Saved/Autosaves/Game/Reordered/Textures/Weapons/PickUps/Ammo/bullet_ammo_gif_Sprite_19_Auto4.uasset'
+[2024.03.26-21.58.54:431][292]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Reordered/Textures/Weapons/PickUps/Ammo/bullet_ammo_gif_Sprite_20] ([1] browsable assets)...
+[2024.03.26-21.58.54:431][292]OBJ SavePackage: Finished generating thumbnails for package [/Game/Reordered/Textures/Weapons/PickUps/Ammo/bullet_ammo_gif_Sprite_20]
+[2024.03.26-21.58.54:434][292]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Reordered/Textures/Weapons/PickUps/Ammo/bullet_ammo_gif_Sprite_20_Auto4
+[2024.03.26-21.58.54:434][292]LogSavePackage: Moving '../../../../../../Users/WildBeast/Documents/Unreal Projects/Virus_Outbreak/Saved/bullet_ammo_gif_Sprite_20_Auto4884C9DD84A2F6EE80A7D4CA184CD0AEE.tmp' to '../../../../../../Users/WildBeast/Documents/Unreal Projects/Virus_Outbreak/Saved/Autosaves/Game/Reordered/Textures/Weapons/PickUps/Ammo/bullet_ammo_gif_Sprite_20_Auto4.uasset'
+[2024.03.26-21.58.54:436][292]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Reordered/Textures/Weapons/PickUps/Ammo/bullet_ammo_gif_Sprite_21] ([1] browsable assets)...
+[2024.03.26-21.58.54:436][292]OBJ SavePackage: Finished generating thumbnails for package [/Game/Reordered/Textures/Weapons/PickUps/Ammo/bullet_ammo_gif_Sprite_21]
+[2024.03.26-21.58.54:438][292]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Reordered/Textures/Weapons/PickUps/Ammo/bullet_ammo_gif_Sprite_21_Auto4
+[2024.03.26-21.58.54:439][292]LogSavePackage: Moving '../../../../../../Users/WildBeast/Documents/Unreal Projects/Virus_Outbreak/Saved/bullet_ammo_gif_Sprite_21_Auto46D64359C452AC06206A67C98157ABB47.tmp' to '../../../../../../Users/WildBeast/Documents/Unreal Projects/Virus_Outbreak/Saved/Autosaves/Game/Reordered/Textures/Weapons/PickUps/Ammo/bullet_ammo_gif_Sprite_21_Auto4.uasset'
+[2024.03.26-21.58.54:441][292]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Reordered/Textures/Weapons/PickUps/Ammo/bullet_ammo_gif_Sprite_22] ([1] browsable assets)...
+[2024.03.26-21.58.54:441][292]OBJ SavePackage: Finished generating thumbnails for package [/Game/Reordered/Textures/Weapons/PickUps/Ammo/bullet_ammo_gif_Sprite_22]
+[2024.03.26-21.58.54:443][292]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Reordered/Textures/Weapons/PickUps/Ammo/bullet_ammo_gif_Sprite_22_Auto4
+[2024.03.26-21.58.54:443][292]LogSavePackage: Moving '../../../../../../Users/WildBeast/Documents/Unreal Projects/Virus_Outbreak/Saved/bullet_ammo_gif_Sprite_22_Auto40252D44C40D5F63D6A7851A0C97C93B1.tmp' to '../../../../../../Users/WildBeast/Documents/Unreal Projects/Virus_Outbreak/Saved/Autosaves/Game/Reordered/Textures/Weapons/PickUps/Ammo/bullet_ammo_gif_Sprite_22_Auto4.uasset'
+[2024.03.26-21.58.54:445][292]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Reordered/Textures/Weapons/PickUps/Ammo/bullet_ammo_gif_Sprite_23] ([1] browsable assets)...
+[2024.03.26-21.58.54:445][292]OBJ SavePackage: Finished generating thumbnails for package [/Game/Reordered/Textures/Weapons/PickUps/Ammo/bullet_ammo_gif_Sprite_23]
+[2024.03.26-21.58.54:447][292]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Reordered/Textures/Weapons/PickUps/Ammo/bullet_ammo_gif_Sprite_23_Auto4
+[2024.03.26-21.58.54:447][292]LogSavePackage: Moving '../../../../../../Users/WildBeast/Documents/Unreal Projects/Virus_Outbreak/Saved/bullet_ammo_gif_Sprite_23_Auto4F0072CEB45D86AA73D562C89AF6F6821.tmp' to '../../../../../../Users/WildBeast/Documents/Unreal Projects/Virus_Outbreak/Saved/Autosaves/Game/Reordered/Textures/Weapons/PickUps/Ammo/bullet_ammo_gif_Sprite_23_Auto4.uasset'
+[2024.03.26-21.58.54:449][292]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Reordered/Textures/Weapons/PickUps/Ammo/bullet_ammo_gif_Sprite_24] ([1] browsable assets)...
+[2024.03.26-21.58.54:449][292]OBJ SavePackage: Finished generating thumbnails for package [/Game/Reordered/Textures/Weapons/PickUps/Ammo/bullet_ammo_gif_Sprite_24]
+[2024.03.26-21.58.54:451][292]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Reordered/Textures/Weapons/PickUps/Ammo/bullet_ammo_gif_Sprite_24_Auto4
+[2024.03.26-21.58.54:451][292]LogSavePackage: Moving '../../../../../../Users/WildBeast/Documents/Unreal Projects/Virus_Outbreak/Saved/bullet_ammo_gif_Sprite_24_Auto4E764A8894D1692054F6FA8AB87673CDE.tmp' to '../../../../../../Users/WildBeast/Documents/Unreal Projects/Virus_Outbreak/Saved/Autosaves/Game/Reordered/Textures/Weapons/PickUps/Ammo/bullet_ammo_gif_Sprite_24_Auto4.uasset'
+[2024.03.26-21.58.54:453][292]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Reordered/Textures/Weapons/PickUps/Ammo/bullet_ammo_gif_Sprite_25] ([1] browsable assets)...
+[2024.03.26-21.58.54:453][292]OBJ SavePackage: Finished generating thumbnails for package [/Game/Reordered/Textures/Weapons/PickUps/Ammo/bullet_ammo_gif_Sprite_25]
+[2024.03.26-21.58.54:455][292]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Reordered/Textures/Weapons/PickUps/Ammo/bullet_ammo_gif_Sprite_25_Auto4
+[2024.03.26-21.58.54:455][292]LogSavePackage: Moving '../../../../../../Users/WildBeast/Documents/Unreal Projects/Virus_Outbreak/Saved/bullet_ammo_gif_Sprite_25_Auto4206DF90B4D2AD021CB2A06A85AB895ED.tmp' to '../../../../../../Users/WildBeast/Documents/Unreal Projects/Virus_Outbreak/Saved/Autosaves/Game/Reordered/Textures/Weapons/PickUps/Ammo/bullet_ammo_gif_Sprite_25_Auto4.uasset'
+[2024.03.26-21.58.54:457][292]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Reordered/Textures/Weapons/PickUps/Ammo/bullet_ammo_gif_Sprite_26] ([1] browsable assets)...
+[2024.03.26-21.58.54:457][292]OBJ SavePackage: Finished generating thumbnails for package [/Game/Reordered/Textures/Weapons/PickUps/Ammo/bullet_ammo_gif_Sprite_26]
+[2024.03.26-21.58.54:459][292]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Reordered/Textures/Weapons/PickUps/Ammo/bullet_ammo_gif_Sprite_26_Auto4
+[2024.03.26-21.58.54:459][292]LogSavePackage: Moving '../../../../../../Users/WildBeast/Documents/Unreal Projects/Virus_Outbreak/Saved/bullet_ammo_gif_Sprite_26_Auto479E4505948B3C2D049CA20BB856DC9CF.tmp' to '../../../../../../Users/WildBeast/Documents/Unreal Projects/Virus_Outbreak/Saved/Autosaves/Game/Reordered/Textures/Weapons/PickUps/Ammo/bullet_ammo_gif_Sprite_26_Auto4.uasset'
+[2024.03.26-21.58.54:461][292]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Reordered/Textures/Weapons/PickUps/Ammo/bullet_ammo_gif_Sprite_27] ([1] browsable assets)...
+[2024.03.26-21.58.54:461][292]OBJ SavePackage: Finished generating thumbnails for package [/Game/Reordered/Textures/Weapons/PickUps/Ammo/bullet_ammo_gif_Sprite_27]
+[2024.03.26-21.58.54:463][292]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Reordered/Textures/Weapons/PickUps/Ammo/bullet_ammo_gif_Sprite_27_Auto4
+[2024.03.26-21.58.54:463][292]LogSavePackage: Moving '../../../../../../Users/WildBeast/Documents/Unreal Projects/Virus_Outbreak/Saved/bullet_ammo_gif_Sprite_27_Auto43556FEBC4B73EBEFFEB442AC0CFE40EF.tmp' to '../../../../../../Users/WildBeast/Documents/Unreal Projects/Virus_Outbreak/Saved/Autosaves/Game/Reordered/Textures/Weapons/PickUps/Ammo/bullet_ammo_gif_Sprite_27_Auto4.uasset'
+[2024.03.26-21.58.54:465][292]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Reordered/Textures/Weapons/PickUps/Ammo/bullet_ammo_gif_Sprite_28] ([1] browsable assets)...
+[2024.03.26-21.58.54:465][292]OBJ SavePackage: Finished generating thumbnails for package [/Game/Reordered/Textures/Weapons/PickUps/Ammo/bullet_ammo_gif_Sprite_28]
+[2024.03.26-21.58.54:467][292]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Reordered/Textures/Weapons/PickUps/Ammo/bullet_ammo_gif_Sprite_28_Auto4
+[2024.03.26-21.58.54:467][292]LogSavePackage: Moving '../../../../../../Users/WildBeast/Documents/Unreal Projects/Virus_Outbreak/Saved/bullet_ammo_gif_Sprite_28_Auto48BB0C3344F26A4980834D6B1252772A1.tmp' to '../../../../../../Users/WildBeast/Documents/Unreal Projects/Virus_Outbreak/Saved/Autosaves/Game/Reordered/Textures/Weapons/PickUps/Ammo/bullet_ammo_gif_Sprite_28_Auto4.uasset'
+[2024.03.26-21.58.54:468][292]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Reordered/Textures/Weapons/PickUps/Ammo/bullet_ammo_gif_Sprite_29] ([1] browsable assets)...
+[2024.03.26-21.58.54:468][292]OBJ SavePackage: Finished generating thumbnails for package [/Game/Reordered/Textures/Weapons/PickUps/Ammo/bullet_ammo_gif_Sprite_29]
+[2024.03.26-21.58.54:470][292]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Reordered/Textures/Weapons/PickUps/Ammo/bullet_ammo_gif_Sprite_29_Auto4
+[2024.03.26-21.58.54:470][292]LogSavePackage: Moving '../../../../../../Users/WildBeast/Documents/Unreal Projects/Virus_Outbreak/Saved/bullet_ammo_gif_Sprite_29_Auto4FE5B73694FF9121345E774B1F7FEA2C4.tmp' to '../../../../../../Users/WildBeast/Documents/Unreal Projects/Virus_Outbreak/Saved/Autosaves/Game/Reordered/Textures/Weapons/PickUps/Ammo/bullet_ammo_gif_Sprite_29_Auto4.uasset'
+[2024.03.26-21.58.54:472][292]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Reordered/Textures/Weapons/PickUps/Ammo/bullet_ammo_gif_Sprite_30] ([1] browsable assets)...
+[2024.03.26-21.58.54:472][292]OBJ SavePackage: Finished generating thumbnails for package [/Game/Reordered/Textures/Weapons/PickUps/Ammo/bullet_ammo_gif_Sprite_30]
+[2024.03.26-21.58.54:474][292]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Reordered/Textures/Weapons/PickUps/Ammo/bullet_ammo_gif_Sprite_30_Auto4
+[2024.03.26-21.58.54:474][292]LogSavePackage: Moving '../../../../../../Users/WildBeast/Documents/Unreal Projects/Virus_Outbreak/Saved/bullet_ammo_gif_Sprite_30_Auto4C951969E40D380C7564B0980FD0C54D3.tmp' to '../../../../../../Users/WildBeast/Documents/Unreal Projects/Virus_Outbreak/Saved/Autosaves/Game/Reordered/Textures/Weapons/PickUps/Ammo/bullet_ammo_gif_Sprite_30_Auto4.uasset'
+[2024.03.26-21.58.54:475][292]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Reordered/Textures/Weapons/PickUps/Ammo/bullet_ammo_gif_Sprite_31] ([1] browsable assets)...
+[2024.03.26-21.58.54:475][292]OBJ SavePackage: Finished generating thumbnails for package [/Game/Reordered/Textures/Weapons/PickUps/Ammo/bullet_ammo_gif_Sprite_31]
+[2024.03.26-21.58.54:477][292]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Reordered/Textures/Weapons/PickUps/Ammo/bullet_ammo_gif_Sprite_31_Auto4
+[2024.03.26-21.58.54:477][292]LogSavePackage: Moving '../../../../../../Users/WildBeast/Documents/Unreal Projects/Virus_Outbreak/Saved/bullet_ammo_gif_Sprite_31_Auto4D4FBB5A84B85ED709AA093A8B73DDA37.tmp' to '../../../../../../Users/WildBeast/Documents/Unreal Projects/Virus_Outbreak/Saved/Autosaves/Game/Reordered/Textures/Weapons/PickUps/Ammo/bullet_ammo_gif_Sprite_31_Auto4.uasset'
+[2024.03.26-21.58.54:479][292]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Reordered/Textures/Weapons/PickUps/Ammo/bullet_ammo_gif_Sprite_32] ([1] browsable assets)...
+[2024.03.26-21.58.54:479][292]OBJ SavePackage: Finished generating thumbnails for package [/Game/Reordered/Textures/Weapons/PickUps/Ammo/bullet_ammo_gif_Sprite_32]
+[2024.03.26-21.58.54:481][292]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Reordered/Textures/Weapons/PickUps/Ammo/bullet_ammo_gif_Sprite_32_Auto4
+[2024.03.26-21.58.54:481][292]LogSavePackage: Moving '../../../../../../Users/WildBeast/Documents/Unreal Projects/Virus_Outbreak/Saved/bullet_ammo_gif_Sprite_32_Auto4729B6F3D43BCADB565EF4AA4743A8228.tmp' to '../../../../../../Users/WildBeast/Documents/Unreal Projects/Virus_Outbreak/Saved/Autosaves/Game/Reordered/Textures/Weapons/PickUps/Ammo/bullet_ammo_gif_Sprite_32_Auto4.uasset'
+[2024.03.26-21.58.54:483][292]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Reordered/Textures/Weapons/PickUps/Ammo/bullet_ammo_gif_Sprite_33] ([1] browsable assets)...
+[2024.03.26-21.58.54:483][292]OBJ SavePackage: Finished generating thumbnails for package [/Game/Reordered/Textures/Weapons/PickUps/Ammo/bullet_ammo_gif_Sprite_33]
+[2024.03.26-21.58.54:484][292]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Reordered/Textures/Weapons/PickUps/Ammo/bullet_ammo_gif_Sprite_33_Auto4
+[2024.03.26-21.58.54:485][292]LogSavePackage: Moving '../../../../../../Users/WildBeast/Documents/Unreal Projects/Virus_Outbreak/Saved/bullet_ammo_gif_Sprite_33_Auto48E9FF5274594DA158846B8B9AFD9E9DA.tmp' to '../../../../../../Users/WildBeast/Documents/Unreal Projects/Virus_Outbreak/Saved/Autosaves/Game/Reordered/Textures/Weapons/PickUps/Ammo/bullet_ammo_gif_Sprite_33_Auto4.uasset'
+[2024.03.26-21.58.54:486][292]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Reordered/Textures/Weapons/PickUps/Ammo/bullet_ammo_gif_Sprite_34] ([1] browsable assets)...
+[2024.03.26-21.58.54:486][292]OBJ SavePackage: Finished generating thumbnails for package [/Game/Reordered/Textures/Weapons/PickUps/Ammo/bullet_ammo_gif_Sprite_34]
+[2024.03.26-21.58.54:489][292]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Reordered/Textures/Weapons/PickUps/Ammo/bullet_ammo_gif_Sprite_34_Auto4
+[2024.03.26-21.58.54:489][292]LogSavePackage: Moving '../../../../../../Users/WildBeast/Documents/Unreal Projects/Virus_Outbreak/Saved/bullet_ammo_gif_Sprite_34_Auto4F2CEA2F14A95F94CD33AE5ABF94DC130.tmp' to '../../../../../../Users/WildBeast/Documents/Unreal Projects/Virus_Outbreak/Saved/Autosaves/Game/Reordered/Textures/Weapons/PickUps/Ammo/bullet_ammo_gif_Sprite_34_Auto4.uasset'
+[2024.03.26-21.58.54:491][292]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Reordered/Textures/Weapons/PickUps/Ammo/bullet_ammo_gif_Sprite_35] ([1] browsable assets)...
+[2024.03.26-21.58.54:491][292]OBJ SavePackage: Finished generating thumbnails for package [/Game/Reordered/Textures/Weapons/PickUps/Ammo/bullet_ammo_gif_Sprite_35]
+[2024.03.26-21.58.54:493][292]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Reordered/Textures/Weapons/PickUps/Ammo/bullet_ammo_gif_Sprite_35_Auto4
+[2024.03.26-21.58.54:493][292]LogSavePackage: Moving '../../../../../../Users/WildBeast/Documents/Unreal Projects/Virus_Outbreak/Saved/bullet_ammo_gif_Sprite_35_Auto48C05555C455926BFD0F93CAA3DAE70C0.tmp' to '../../../../../../Users/WildBeast/Documents/Unreal Projects/Virus_Outbreak/Saved/Autosaves/Game/Reordered/Textures/Weapons/PickUps/Ammo/bullet_ammo_gif_Sprite_35_Auto4.uasset'
+[2024.03.26-21.58.54:495][292]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Reordered/Textures/Weapons/PickUps/Ammo/bullet_ammo_gif_Sprite_36] ([1] browsable assets)...
+[2024.03.26-21.58.54:495][292]OBJ SavePackage: Finished generating thumbnails for package [/Game/Reordered/Textures/Weapons/PickUps/Ammo/bullet_ammo_gif_Sprite_36]
+[2024.03.26-21.58.54:497][292]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Reordered/Textures/Weapons/PickUps/Ammo/bullet_ammo_gif_Sprite_36_Auto4
+[2024.03.26-21.58.54:497][292]LogSavePackage: Moving '../../../../../../Users/WildBeast/Documents/Unreal Projects/Virus_Outbreak/Saved/bullet_ammo_gif_Sprite_36_Auto45CDE7D494E3AF409841559853CADC8DB.tmp' to '../../../../../../Users/WildBeast/Documents/Unreal Projects/Virus_Outbreak/Saved/Autosaves/Game/Reordered/Textures/Weapons/PickUps/Ammo/bullet_ammo_gif_Sprite_36_Auto4.uasset'
+[2024.03.26-21.58.54:499][292]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Reordered/Textures/Weapons/PickUps/Ammo/bullet_ammo_gif_Sprite_37] ([1] browsable assets)...
+[2024.03.26-21.58.54:499][292]OBJ SavePackage: Finished generating thumbnails for package [/Game/Reordered/Textures/Weapons/PickUps/Ammo/bullet_ammo_gif_Sprite_37]
+[2024.03.26-21.58.54:501][292]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Reordered/Textures/Weapons/PickUps/Ammo/bullet_ammo_gif_Sprite_37_Auto4
+[2024.03.26-21.58.54:501][292]LogSavePackage: Moving '../../../../../../Users/WildBeast/Documents/Unreal Projects/Virus_Outbreak/Saved/bullet_ammo_gif_Sprite_37_Auto42E17337B44F9F254B238548A8DB2BAC4.tmp' to '../../../../../../Users/WildBeast/Documents/Unreal Projects/Virus_Outbreak/Saved/Autosaves/Game/Reordered/Textures/Weapons/PickUps/Ammo/bullet_ammo_gif_Sprite_37_Auto4.uasset'
+[2024.03.26-21.58.54:502][292]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Reordered/Textures/Weapons/PickUps/Ammo/bullet_ammo_gif_Sprite_38] ([1] browsable assets)...
+[2024.03.26-21.58.54:502][292]OBJ SavePackage: Finished generating thumbnails for package [/Game/Reordered/Textures/Weapons/PickUps/Ammo/bullet_ammo_gif_Sprite_38]
+[2024.03.26-21.58.54:504][292]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Reordered/Textures/Weapons/PickUps/Ammo/bullet_ammo_gif_Sprite_38_Auto4
+[2024.03.26-21.58.54:504][292]LogSavePackage: Moving '../../../../../../Users/WildBeast/Documents/Unreal Projects/Virus_Outbreak/Saved/bullet_ammo_gif_Sprite_38_Auto41A77B1BB4E0BCDA735867FAF6517488F.tmp' to '../../../../../../Users/WildBeast/Documents/Unreal Projects/Virus_Outbreak/Saved/Autosaves/Game/Reordered/Textures/Weapons/PickUps/Ammo/bullet_ammo_gif_Sprite_38_Auto4.uasset'
+[2024.03.26-21.58.54:506][292]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Reordered/Textures/Weapons/PickUps/Ammo/bullet_ammo_gif_Sprite_39] ([1] browsable assets)...
+[2024.03.26-21.58.54:506][292]OBJ SavePackage: Finished generating thumbnails for package [/Game/Reordered/Textures/Weapons/PickUps/Ammo/bullet_ammo_gif_Sprite_39]
+[2024.03.26-21.58.54:508][292]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Reordered/Textures/Weapons/PickUps/Ammo/bullet_ammo_gif_Sprite_39_Auto4
+[2024.03.26-21.58.54:508][292]LogSavePackage: Moving '../../../../../../Users/WildBeast/Documents/Unreal Projects/Virus_Outbreak/Saved/bullet_ammo_gif_Sprite_39_Auto4392C1E7042B14BBDAC528EB1AB222409.tmp' to '../../../../../../Users/WildBeast/Documents/Unreal Projects/Virus_Outbreak/Saved/Autosaves/Game/Reordered/Textures/Weapons/PickUps/Ammo/bullet_ammo_gif_Sprite_39_Auto4.uasset'
+[2024.03.26-21.58.54:509][292]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Reordered/Textures/Weapons/PickUps/Ammo/bullet_ammo_gif_Sprite_40] ([1] browsable assets)...
+[2024.03.26-21.58.54:509][292]OBJ SavePackage: Finished generating thumbnails for package [/Game/Reordered/Textures/Weapons/PickUps/Ammo/bullet_ammo_gif_Sprite_40]
+[2024.03.26-21.58.54:511][292]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Reordered/Textures/Weapons/PickUps/Ammo/bullet_ammo_gif_Sprite_40_Auto4
+[2024.03.26-21.58.54:511][292]LogSavePackage: Moving '../../../../../../Users/WildBeast/Documents/Unreal Projects/Virus_Outbreak/Saved/bullet_ammo_gif_Sprite_40_Auto4A0085FEC4B9C25357F93F09490F703C7.tmp' to '../../../../../../Users/WildBeast/Documents/Unreal Projects/Virus_Outbreak/Saved/Autosaves/Game/Reordered/Textures/Weapons/PickUps/Ammo/bullet_ammo_gif_Sprite_40_Auto4.uasset'
+[2024.03.26-21.58.54:513][292]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Reordered/Blueprints/Player/you_died_screen_of] ([1] browsable assets)...
+[2024.03.26-21.58.54:516][292]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Reordered/Blueprints/Player/you_died_screen_of.you_died_screen_of]
+[2024.03.26-21.58.54:516][292]OBJ SavePackage: Finished generating thumbnails for package [/Game/Reordered/Blueprints/Player/you_died_screen_of]
+[2024.03.26-21.58.54:519][292]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Reordered/Blueprints/Player/you_died_screen_of_Auto4
+[2024.03.26-21.58.54:519][292]LogSavePackage: Moving '../../../../../../Users/WildBeast/Documents/Unreal Projects/Virus_Outbreak/Saved/you_died_screen_of_Auto4B36547B04CF4FFEF2F186792ABDC8ED5.tmp' to '../../../../../../Users/WildBeast/Documents/Unreal Projects/Virus_Outbreak/Saved/Autosaves/Game/Reordered/Blueprints/Player/you_died_screen_of_Auto4.uasset'
+[2024.03.26-21.58.54:521][292]LogFileHelpers: Auto-saving content packages took 0.244
+[2024.03.26-22.00.09:351][978]BlueprintLog: New page: Compile Player
+[2024.03.26-22.00.09:434][978]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2024.03.26-22.00.11:860][ 29]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.03.26-22.00.11:871][ 29]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.03.26-22.00.11:871][ 29]PIE: New page: PIE session: Outside_House_Weaponless (27 Mar 2024, 02:00:11)
+[2024.03.26-22.00.11:871][ 29]LogPlayLevel: Creating play world package: /Game/Reordered/Levels/UEDPIE_0_Outside_House_Weaponless
+[2024.03.26-22.00.11:876][ 29]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004681s)
+[2024.03.26-22.00.11:876][ 29]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Reordered/Levels/Outside_House_Weaponless.Outside_House_Weaponless to /Game/Reordered/Levels/UEDPIE_0_Outside_House_Weaponless.Outside_House_Weaponless (0.004720s)
+[2024.03.26-22.00.11:911][ 29]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2024.03.26-22.00.11:920][ 29]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.26-22.00.11:921][ 29]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.26-22.00.11:921][ 29]LogAIModule: Creating AISystem for world Outside_House_Weaponless
+[2024.03.26-22.00.11:922][ 29]LogPlayLevel: PIE: World Init took: (0.001381s)
+[2024.03.26-22.00.11:922][ 29]LogAudio: Display: Creating Audio Device:                 Id: 56, Scope: Unique, Realtime: True
+[2024.03.26-22.00.11:922][ 29]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.03.26-22.00.11:922][ 29]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.03.26-22.00.11:922][ 29]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.03.26-22.00.11:922][ 29]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.03.26-22.00.11:922][ 29]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.03.26-22.00.11:922][ 29]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.03.26-22.00.11:922][ 29]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.03.26-22.00.11:922][ 29]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.03.26-22.00.11:922][ 29]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.03.26-22.00.11:922][ 29]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.03.26-22.00.11:922][ 29]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.03.26-22.00.11:925][ 29]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.03.26-22.00.11:939][ 29]LogAudioMixer: Display: Using Audio Hardware Device Headphones (High Definition Audio Device)
+[2024.03.26-22.00.11:940][ 29]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.03.26-22.00.11:940][ 29]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.03.26-22.00.11:940][ 29]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.03.26-22.00.11:941][ 29]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=56
+[2024.03.26-22.00.11:941][ 29]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=56
+[2024.03.26-22.00.11:943][ 29]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=56
+[2024.03.26-22.00.11:943][ 29]LogInit: FAudioDevice initialized with ID 56.
+[2024.03.26-22.00.11:943][ 29]LogAudio: Display: Audio Device (ID: 56) registered with world 'Outside_House_Weaponless'.
+[2024.03.26-22.00.11:943][ 29]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=56
+[2024.03.26-22.00.11:943][ 29]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 56
+[2024.03.26-22.00.11:946][ 29]LogLoad: Game class is 'GameMode_C'
+[2024.03.26-22.00.11:954][ 29]LogWorld: Bringing World /Game/Reordered/Levels/UEDPIE_0_Outside_House_Weaponless.Outside_House_Weaponless up for play (max tick rate 60) at 2024.03.27-00.00.11
+[2024.03.26-22.00.11:955][ 29]LogWorld: Bringing up level for play took: 0.008949
+[2024.03.26-22.00.11:958][ 29]LogOnline: OSS: Created online subsystem instance for: :Context_69
+[2024.03.26-22.00.12:051][ 29]PIE: Server logged in
+[2024.03.26-22.00.12:052][ 29]PIE: Play in editor total start time 0.181 seconds.
+[2024.03.26-22.00.23:180][360]LogNet: Browse: /Game/Reordered/Levels/Outside_House_Weaponless
+[2024.03.26-22.00.23:180][360]LogLoad: LoadMap: /Game/Reordered/Levels/Outside_House_Weaponless
+[2024.03.26-22.00.23:180][360]LogWorld: BeginTearingDown for /Game/Reordered/Levels/UEDPIE_0_Outside_House_Weaponless
+[2024.03.26-22.00.23:181][360]LogWorld: UWorld::CleanupWorld for Outside_House_Weaponless, bSessionEnded=true, bCleanupResources=true
+[2024.03.26-22.00.23:182][360]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.26-22.00.23:205][360]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.03.26-22.00.23:215][360]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2024.03.26-22.00.23:230][360]LogPlayLevel: Creating play world package: /Game/Reordered/Levels/UEDPIE_0_Outside_House_Weaponless
+[2024.03.26-22.00.23:235][360]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005062s)
+[2024.03.26-22.00.23:235][360]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Reordered/Levels/Outside_House_Weaponless.Outside_House_Weaponless to /Game/Reordered/Levels/UEDPIE_0_Outside_House_Weaponless.Outside_House_Weaponless (0.005125s)
+[2024.03.26-22.00.23:235][360]LogAudio: Display: Audio Device (ID: 56) registered with world 'Outside_House_Weaponless'.
+[2024.03.26-22.00.23:235][360]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.26-22.00.23:235][360]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.26-22.00.23:236][360]LogAIModule: Creating AISystem for world Outside_House_Weaponless
+[2024.03.26-22.00.23:236][360]LogPlayLevel: PIE: World Init took: (0.001061s)
+[2024.03.26-22.00.23:236][360]LogLoad: Game class is 'GameMode_C'
+[2024.03.26-22.00.23:245][360]LogWorld: Bringing World /Game/Reordered/Levels/UEDPIE_0_Outside_House_Weaponless.Outside_House_Weaponless up for play (max tick rate 60) at 2024.03.27-00.00.23
+[2024.03.26-22.00.23:246][360]LogWorld: Bringing up level for play took: 0.009594
+[2024.03.26-22.00.23:339][360]LogLoad: Took 0.158837 seconds to LoadMap(/Game/Reordered/Levels/UEDPIE_0_Outside_House_Weaponless)
+[2024.03.26-22.00.27:919][497]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.26-22.00.27:919][497]LogWorld: BeginTearingDown for /Game/Reordered/Levels/UEDPIE_0_Outside_House_Weaponless
+[2024.03.26-22.00.27:919][497]LogWorld: UWorld::CleanupWorld for Outside_House_Weaponless, bSessionEnded=true, bCleanupResources=true
+[2024.03.26-22.00.27:920][497]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.26-22.00.27:943][497]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.03.26-22.00.27:948][497]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.26-22.00.27:971][497]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.26-22.00.27:971][497]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 56
+[2024.03.26-22.00.27:971][497]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=56
+[2024.03.26-22.00.27:973][497]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=56
+[2024.03.26-22.00.27:982][497]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2024.03.26-22.00.28:131][498]LogClass: Warning: Short type name "PrimitiveComponent" provided for TryFindType. Please convert it to a path name (suggested: "/Script/Engine.PrimitiveComponent"). Callstack:
+
+UnknownFunction []
+UnknownFunction []
+`FPaperZDComponentReferenceCustomization::BuildClassFilters'::`2'::<lambda_2>::operator()() [D:\build\U5M-Marketplace\Sync\LocalBuilds\PluginTemp\HostProject\Plugins\PaperZD\Source\PaperZDEditor\Private\Editors\DetailCustomizations\PaperZDComponentReferenceCustomization.cpp:183]
+FPaperZDComponentReferenceCustomization::CustomizeHeader() [D:\build\U5M-Marketplace\Sync\LocalBuilds\PluginTemp\HostProject\Plugins\PaperZD\Source\PaperZDEditor\Private\Editors\DetailCustomizations\PaperZDComponentReferenceCustomization.cpp:91]
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+
+[2024.03.26-22.00.28:201][498]LogPlayLevel: Display: Destroying online subsystem :Context_69
+[2024.03.26-22.00.50:157][ 95]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Reordered/Blueprints/Interactable/Door_Teleport.Door_Teleport
+[2024.03.26-22.00.50:157][ 95]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.26-22.00.50:157][ 95]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.26-22.00.58:178][240]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2024.03.26-22.00.58:179][240]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.26-22.00.59:222][257]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.03.26-22.00.59:222][257]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2024.03.26-22.00.59:222][257]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.26-22.01.00:233][273]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2024.03.26-22.01.00:233][273]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.26-22.01.00:244][273]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2024.03.26-22.01.00:244][273]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.26-22.01.23:493][687]BlueprintLog: New page: Compile Player
+[2024.03.26-22.01.23:530][687]LogBlueprint: Error: [AssetLog] C:\Users\WildBeast\Documents\Unreal Projects\Virus_Outbreak\Content\Reordered\Blueprints\Player\Player.uasset: [Compiler] This blueprint (self) is not a PlayerCameraManager, therefore ' Target ' must have a connection.
+[2024.03.26-22.01.23:585][687]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2024.03.26-22.01.40:691][989]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Reordered/Blueprints/Interactable/Door_Teleport.Door_Teleport
+[2024.03.26-22.01.40:692][989]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.26-22.01.40:692][989]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.26-22.01.58:883][278]BlueprintLog: New page: Compile Player
+[2024.03.26-22.01.58:972][278]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2024.03.26-22.02.01:733][334]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.03.26-22.02.01:744][334]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.03.26-22.02.01:744][334]PIE: New page: PIE session: Outside_House_Weaponless (27 Mar 2024, 02:02:01)
+[2024.03.26-22.02.01:744][334]LogPlayLevel: Creating play world package: /Game/Reordered/Levels/UEDPIE_0_Outside_House_Weaponless
+[2024.03.26-22.02.01:749][334]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004906s)
+[2024.03.26-22.02.01:749][334]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Reordered/Levels/Outside_House_Weaponless.Outside_House_Weaponless to /Game/Reordered/Levels/UEDPIE_0_Outside_House_Weaponless.Outside_House_Weaponless (0.004949s)
+[2024.03.26-22.02.01:785][334]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2024.03.26-22.02.01:795][334]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.26-22.02.01:795][334]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.26-22.02.01:795][334]LogAIModule: Creating AISystem for world Outside_House_Weaponless
+[2024.03.26-22.02.01:796][334]LogPlayLevel: PIE: World Init took: (0.001241s)
+[2024.03.26-22.02.01:796][334]LogAudio: Display: Creating Audio Device:                 Id: 57, Scope: Unique, Realtime: True
+[2024.03.26-22.02.01:796][334]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.03.26-22.02.01:796][334]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.03.26-22.02.01:796][334]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.03.26-22.02.01:796][334]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.03.26-22.02.01:796][334]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.03.26-22.02.01:796][334]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.03.26-22.02.01:796][334]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.03.26-22.02.01:796][334]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.03.26-22.02.01:796][334]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.03.26-22.02.01:797][334]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.03.26-22.02.01:797][334]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.03.26-22.02.01:799][334]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.03.26-22.02.01:812][334]LogAudioMixer: Display: Using Audio Hardware Device Headphones (High Definition Audio Device)
+[2024.03.26-22.02.01:812][334]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.03.26-22.02.01:812][334]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.03.26-22.02.01:812][334]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.03.26-22.02.01:813][334]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=57
+[2024.03.26-22.02.01:813][334]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=57
+[2024.03.26-22.02.01:815][334]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=57
+[2024.03.26-22.02.01:815][334]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=57
+[2024.03.26-22.02.01:815][334]LogInit: FAudioDevice initialized with ID 57.
+[2024.03.26-22.02.01:815][334]LogAudio: Display: Audio Device (ID: 57) registered with world 'Outside_House_Weaponless'.
+[2024.03.26-22.02.01:815][334]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 57
+[2024.03.26-22.02.01:818][334]LogLoad: Game class is 'GameMode_C'
+[2024.03.26-22.02.01:827][334]LogWorld: Bringing World /Game/Reordered/Levels/UEDPIE_0_Outside_House_Weaponless.Outside_House_Weaponless up for play (max tick rate 60) at 2024.03.27-00.02.01
+[2024.03.26-22.02.01:828][334]LogWorld: Bringing up level for play took: 0.009094
+[2024.03.26-22.02.01:831][334]LogOnline: OSS: Created online subsystem instance for: :Context_72
+[2024.03.26-22.02.01:925][334]PIE: Server logged in
+[2024.03.26-22.02.01:926][334]PIE: Play in editor total start time 0.182 seconds.
+[2024.03.26-22.02.10:539][590]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.26-22.02.10:539][590]LogWorld: BeginTearingDown for /Game/Reordered/Levels/UEDPIE_0_Outside_House_Weaponless
+[2024.03.26-22.02.10:540][590]LogWorld: UWorld::CleanupWorld for Outside_House_Weaponless, bSessionEnded=true, bCleanupResources=true
+[2024.03.26-22.02.10:540][590]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.26-22.02.10:566][590]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.03.26-22.02.10:572][590]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.26-22.02.10:596][590]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.03.26-22.02.10:597][590]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 57
+[2024.03.26-22.02.10:597][590]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=57
+[2024.03.26-22.02.10:599][590]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=57
+[2024.03.26-22.02.10:604][590]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.26-22.02.10:608][590]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2024.03.26-22.02.10:760][591]LogClass: Warning: Short type name "PrimitiveComponent" provided for TryFindType. Please convert it to a path name (suggested: "/Script/Engine.PrimitiveComponent"). Callstack:
+
+UnknownFunction []
+UnknownFunction []
+`FPaperZDComponentReferenceCustomization::BuildClassFilters'::`2'::<lambda_2>::operator()() [D:\build\U5M-Marketplace\Sync\LocalBuilds\PluginTemp\HostProject\Plugins\PaperZD\Source\PaperZDEditor\Private\Editors\DetailCustomizations\PaperZDComponentReferenceCustomization.cpp:183]
+FPaperZDComponentReferenceCustomization::CustomizeHeader() [D:\build\U5M-Marketplace\Sync\LocalBuilds\PluginTemp\HostProject\Plugins\PaperZD\Source\PaperZDEditor\Private\Editors\DetailCustomizations\PaperZDComponentReferenceCustomization.cpp:91]
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+
+[2024.03.26-22.02.10:835][591]LogPlayLevel: Display: Destroying online subsystem :Context_72
+[2024.03.26-22.02.29:736][869]BlueprintLog: New page: Compile Player
+[2024.03.26-22.02.29:822][869]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2024.03.26-22.02.31:930][911]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.03.26-22.02.31:941][911]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.03.26-22.02.31:942][911]PIE: New page: PIE session: Outside_House_Weaponless (27 Mar 2024, 02:02:31)
+[2024.03.26-22.02.31:942][911]LogPlayLevel: Creating play world package: /Game/Reordered/Levels/UEDPIE_0_Outside_House_Weaponless
+[2024.03.26-22.02.31:946][911]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004747s)
+[2024.03.26-22.02.31:947][911]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Reordered/Levels/Outside_House_Weaponless.Outside_House_Weaponless to /Game/Reordered/Levels/UEDPIE_0_Outside_House_Weaponless.Outside_House_Weaponless (0.004795s)
+[2024.03.26-22.02.31:982][911]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2024.03.26-22.02.31:992][911]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.26-22.02.31:992][911]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.26-22.02.31:993][911]LogAIModule: Creating AISystem for world Outside_House_Weaponless
+[2024.03.26-22.02.31:993][911]LogPlayLevel: PIE: World Init took: (0.001066s)
+[2024.03.26-22.02.31:993][911]LogAudio: Display: Creating Audio Device:                 Id: 58, Scope: Unique, Realtime: True
+[2024.03.26-22.02.31:993][911]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.03.26-22.02.31:993][911]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.03.26-22.02.31:993][911]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.03.26-22.02.31:993][911]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.03.26-22.02.31:993][911]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.03.26-22.02.31:993][911]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.03.26-22.02.31:993][911]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.03.26-22.02.31:993][911]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.03.26-22.02.31:994][911]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.03.26-22.02.31:994][911]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.03.26-22.02.31:994][911]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.03.26-22.02.31:996][911]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.03.26-22.02.32:009][911]LogAudioMixer: Display: Using Audio Hardware Device Headphones (High Definition Audio Device)
+[2024.03.26-22.02.32:009][911]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.03.26-22.02.32:010][911]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.03.26-22.02.32:010][911]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.03.26-22.02.32:010][911]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=58
+[2024.03.26-22.02.32:010][911]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=58
+[2024.03.26-22.02.32:013][911]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=58
+[2024.03.26-22.02.32:013][911]LogInit: FAudioDevice initialized with ID 58.
+[2024.03.26-22.02.32:013][911]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=58
+[2024.03.26-22.02.32:013][911]LogAudio: Display: Audio Device (ID: 58) registered with world 'Outside_House_Weaponless'.
+[2024.03.26-22.02.32:013][911]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 58
+[2024.03.26-22.02.32:016][911]LogLoad: Game class is 'GameMode_C'
+[2024.03.26-22.02.32:024][911]LogWorld: Bringing World /Game/Reordered/Levels/UEDPIE_0_Outside_House_Weaponless.Outside_House_Weaponless up for play (max tick rate 60) at 2024.03.27-00.02.32
+[2024.03.26-22.02.32:025][911]LogWorld: Bringing up level for play took: 0.009196
+[2024.03.26-22.02.32:028][911]LogOnline: OSS: Created online subsystem instance for: :Context_73
+[2024.03.26-22.02.32:135][911]PIE: Server logged in
+[2024.03.26-22.02.32:136][911]PIE: Play in editor total start time 0.195 seconds.
+[2024.03.26-22.02.40:779][167]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.26-22.02.40:779][167]LogWorld: BeginTearingDown for /Game/Reordered/Levels/UEDPIE_0_Outside_House_Weaponless
+[2024.03.26-22.02.40:779][167]LogWorld: UWorld::CleanupWorld for Outside_House_Weaponless, bSessionEnded=true, bCleanupResources=true
+[2024.03.26-22.02.40:779][167]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.26-22.02.40:800][167]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.03.26-22.02.40:805][167]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.26-22.02.40:827][167]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.03.26-22.02.40:827][167]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 58
+[2024.03.26-22.02.40:827][167]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=58
+[2024.03.26-22.02.40:829][167]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=58
+[2024.03.26-22.02.40:834][167]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.26-22.02.40:838][167]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2024.03.26-22.02.40:987][168]LogClass: Warning: Short type name "PrimitiveComponent" provided for TryFindType. Please convert it to a path name (suggested: "/Script/Engine.PrimitiveComponent"). Callstack:
+
+UnknownFunction []
+UnknownFunction []
+`FPaperZDComponentReferenceCustomization::BuildClassFilters'::`2'::<lambda_2>::operator()() [D:\build\U5M-Marketplace\Sync\LocalBuilds\PluginTemp\HostProject\Plugins\PaperZD\Source\PaperZDEditor\Private\Editors\DetailCustomizations\PaperZDComponentReferenceCustomization.cpp:183]
+FPaperZDComponentReferenceCustomization::CustomizeHeader() [D:\build\U5M-Marketplace\Sync\LocalBuilds\PluginTemp\HostProject\Plugins\PaperZD\Source\PaperZDEditor\Private\Editors\DetailCustomizations\PaperZDComponentReferenceCustomization.cpp:91]
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+
+[2024.03.26-22.02.41:056][168]LogPlayLevel: Display: Destroying online subsystem :Context_73
+[2024.03.26-22.02.52:652][354]BlueprintLog: New page: Compile Player
+[2024.03.26-22.02.52:738][354]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2024.03.26-22.02.54:912][396]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.03.26-22.02.54:924][396]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.03.26-22.02.54:924][396]PIE: New page: PIE session: Outside_House_Weaponless (27 Mar 2024, 02:02:54)
+[2024.03.26-22.02.54:924][396]LogPlayLevel: Creating play world package: /Game/Reordered/Levels/UEDPIE_0_Outside_House_Weaponless
+[2024.03.26-22.02.54:930][396]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005625s)
+[2024.03.26-22.02.54:930][396]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Reordered/Levels/Outside_House_Weaponless.Outside_House_Weaponless to /Game/Reordered/Levels/UEDPIE_0_Outside_House_Weaponless.Outside_House_Weaponless (0.005677s)
+[2024.03.26-22.02.54:964][396]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2024.03.26-22.02.54:979][396]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.26-22.02.54:979][396]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.26-22.02.54:980][396]LogAIModule: Creating AISystem for world Outside_House_Weaponless
+[2024.03.26-22.02.54:980][396]LogPlayLevel: PIE: World Init took: (0.002003s)
+[2024.03.26-22.02.54:980][396]LogAudio: Display: Creating Audio Device:                 Id: 59, Scope: Unique, Realtime: True
+[2024.03.26-22.02.54:981][396]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.03.26-22.02.54:981][396]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.03.26-22.02.54:981][396]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.03.26-22.02.54:981][396]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.03.26-22.02.54:981][396]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.03.26-22.02.54:981][396]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.03.26-22.02.54:981][396]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.03.26-22.02.54:981][396]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.03.26-22.02.54:981][396]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.03.26-22.02.54:982][396]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.03.26-22.02.54:982][396]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.03.26-22.02.54:985][396]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.03.26-22.02.55:009][396]LogAudioMixer: Display: Using Audio Hardware Device Headphones (High Definition Audio Device)
+[2024.03.26-22.02.55:009][396]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.03.26-22.02.55:010][396]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.03.26-22.02.55:010][396]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.03.26-22.02.55:010][396]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=59
+[2024.03.26-22.02.55:010][396]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=59
+[2024.03.26-22.02.55:014][396]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=59
+[2024.03.26-22.02.55:014][396]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=59
+[2024.03.26-22.02.55:014][396]LogInit: FAudioDevice initialized with ID 59.
+[2024.03.26-22.02.55:014][396]LogAudio: Display: Audio Device (ID: 59) registered with world 'Outside_House_Weaponless'.
+[2024.03.26-22.02.55:014][396]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 59
+[2024.03.26-22.02.55:019][396]LogLoad: Game class is 'GameMode_C'
+[2024.03.26-22.02.55:039][396]LogWorld: Bringing World /Game/Reordered/Levels/UEDPIE_0_Outside_House_Weaponless.Outside_House_Weaponless up for play (max tick rate 60) at 2024.03.27-00.02.55
+[2024.03.26-22.02.55:042][396]LogWorld: Bringing up level for play took: 0.022275
+[2024.03.26-22.02.55:045][396]LogOnline: OSS: Created online subsystem instance for: :Context_74
+[2024.03.26-22.02.55:160][396]PIE: Server logged in
+[2024.03.26-22.02.55:161][396]PIE: Play in editor total start time 0.238 seconds.
+[2024.03.26-22.03.03:189][633]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.26-22.03.03:189][633]LogWorld: BeginTearingDown for /Game/Reordered/Levels/UEDPIE_0_Outside_House_Weaponless
+[2024.03.26-22.03.03:189][633]LogWorld: UWorld::CleanupWorld for Outside_House_Weaponless, bSessionEnded=true, bCleanupResources=true
+[2024.03.26-22.03.03:189][633]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.26-22.03.03:210][633]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.03.26-22.03.03:216][633]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.26-22.03.03:236][633]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.03.26-22.03.03:237][633]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 59
+[2024.03.26-22.03.03:237][633]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=59
+[2024.03.26-22.03.03:239][633]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=59
+[2024.03.26-22.03.03:243][633]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.26-22.03.03:247][633]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2024.03.26-22.03.03:403][634]LogClass: Warning: Short type name "PrimitiveComponent" provided for TryFindType. Please convert it to a path name (suggested: "/Script/Engine.PrimitiveComponent"). Callstack:
+
+UnknownFunction []
+UnknownFunction []
+`FPaperZDComponentReferenceCustomization::BuildClassFilters'::`2'::<lambda_2>::operator()() [D:\build\U5M-Marketplace\Sync\LocalBuilds\PluginTemp\HostProject\Plugins\PaperZD\Source\PaperZDEditor\Private\Editors\DetailCustomizations\PaperZDComponentReferenceCustomization.cpp:183]
+FPaperZDComponentReferenceCustomization::CustomizeHeader() [D:\build\U5M-Marketplace\Sync\LocalBuilds\PluginTemp\HostProject\Plugins\PaperZD\Source\PaperZDEditor\Private\Editors\DetailCustomizations\PaperZDComponentReferenceCustomization.cpp:91]
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+
+[2024.03.26-22.03.03:473][634]LogPlayLevel: Display: Destroying online subsystem :Context_74
+[2024.03.26-22.03.13:215][906]LogEditorViewport: Clicking Background
+[2024.03.26-22.03.14:478][941]LogEditorViewport: Clicking Background
+[2024.03.26-22.03.14:996][956]LogEditorViewport: Clicking Background
+[2024.03.26-22.03.15:448][969]LogEditorViewport: Clicking Background
+[2024.03.26-22.03.18:071][ 37]LogEditorViewport: Clicking Background
+[2024.03.26-22.03.22:297][155]LogEditorViewport: Clicking Background
+[2024.03.26-22.03.25:165][231]LogEditorViewport: Clicking Background
+[2024.03.26-22.03.40:536][681]LogEditorViewport: Clicking Background
+[2024.03.26-22.03.46:789][860]LogEditorViewport: Clicking Background
+[2024.03.26-22.03.48:118][897]LogEditorViewport: Clicking Background
+[2024.03.26-22.03.55:387][105]Cmd: DELETE
+[2024.03.26-22.03.55:387][105]Cmd: ACTOR DELETE
+[2024.03.26-22.03.55:395][105]LogEditorActor: Deleted Actor: WeaponPickUp_C
+[2024.03.26-22.03.55:429][105]LogUObjectHash: Compacting FUObjectHashTables data took   2.84ms
+[2024.03.26-22.03.55:438][105]LogEditorActor: Deleted 1 Actors (0.051 secs)
+[2024.03.26-22.03.57:225][156]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.03.26-22.03.57:237][156]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.03.26-22.03.57:237][156]PIE: New page: PIE session: Outside_House_Weaponless (27 Mar 2024, 02:03:57)
+[2024.03.26-22.03.57:237][156]LogPlayLevel: Creating play world package: /Game/Reordered/Levels/UEDPIE_0_Outside_House_Weaponless
+[2024.03.26-22.03.57:243][156]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005306s)
+[2024.03.26-22.03.57:243][156]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Reordered/Levels/Outside_House_Weaponless.Outside_House_Weaponless to /Game/Reordered/Levels/UEDPIE_0_Outside_House_Weaponless.Outside_House_Weaponless (0.005353s)
+[2024.03.26-22.03.57:265][156]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2024.03.26-22.03.57:268][156]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.26-22.03.57:268][156]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.26-22.03.57:268][156]LogAIModule: Creating AISystem for world Outside_House_Weaponless
+[2024.03.26-22.03.57:269][156]LogPlayLevel: PIE: World Init took: (0.001050s)
+[2024.03.26-22.03.57:269][156]LogAudio: Display: Creating Audio Device:                 Id: 60, Scope: Unique, Realtime: True
+[2024.03.26-22.03.57:269][156]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.03.26-22.03.57:269][156]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.03.26-22.03.57:269][156]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.03.26-22.03.57:269][156]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.03.26-22.03.57:269][156]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.03.26-22.03.57:269][156]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.03.26-22.03.57:269][156]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.03.26-22.03.57:269][156]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.03.26-22.03.57:269][156]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.03.26-22.03.57:269][156]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.03.26-22.03.57:269][156]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.03.26-22.03.57:272][156]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.03.26-22.03.57:286][156]LogAudioMixer: Display: Using Audio Hardware Device Headphones (High Definition Audio Device)
+[2024.03.26-22.03.57:286][156]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.03.26-22.03.57:286][156]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.03.26-22.03.57:286][156]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.03.26-22.03.57:287][156]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=60
+[2024.03.26-22.03.57:287][156]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=60
+[2024.03.26-22.03.57:289][156]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=60
+[2024.03.26-22.03.57:289][156]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=60
+[2024.03.26-22.03.57:289][156]LogInit: FAudioDevice initialized with ID 60.
+[2024.03.26-22.03.57:289][156]LogAudio: Display: Audio Device (ID: 60) registered with world 'Outside_House_Weaponless'.
+[2024.03.26-22.03.57:290][156]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 60
+[2024.03.26-22.03.57:294][156]LogLoad: Game class is 'GameMode_C'
+[2024.03.26-22.03.57:302][156]LogWorld: Bringing World /Game/Reordered/Levels/UEDPIE_0_Outside_House_Weaponless.Outside_House_Weaponless up for play (max tick rate 60) at 2024.03.27-00.03.57
+[2024.03.26-22.03.57:303][156]LogWorld: Bringing up level for play took: 0.009057
+[2024.03.26-22.03.57:305][156]LogOnline: OSS: Created online subsystem instance for: :Context_75
+[2024.03.26-22.03.57:395][156]PIE: Server logged in
+[2024.03.26-22.03.57:396][156]PIE: Play in editor total start time 0.159 seconds.
+[2024.03.26-22.04.00:049][233]LogBlueprintUserMessages: [AmmoPickUp_C_1] 9
+[2024.03.26-22.04.12:159][595]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.26-22.04.12:159][595]LogWorld: BeginTearingDown for /Game/Reordered/Levels/UEDPIE_0_Outside_House_Weaponless
+[2024.03.26-22.04.12:159][595]LogWorld: UWorld::CleanupWorld for Outside_House_Weaponless, bSessionEnded=true, bCleanupResources=true
+[2024.03.26-22.04.12:159][595]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.26-22.04.12:177][595]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.03.26-22.04.12:182][595]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.26-22.04.12:204][595]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.03.26-22.04.12:205][595]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 60
+[2024.03.26-22.04.12:205][595]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=60
+[2024.03.26-22.04.12:207][595]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=60
+[2024.03.26-22.04.12:212][595]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.26-22.04.12:216][595]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2024.03.26-22.04.12:336][596]LogPlayLevel: Display: Destroying online subsystem :Context_75
+[2024.03.26-22.04.25:968][650]LogSlate: Window 'Color Picker' being destroyed
+[2024.03.26-22.05.22:603][ 92]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2024.03.26-22.05.23:565][ 92]LogSlate: Window 'Save Content' being destroyed
+[2024.03.26-22.05.23:618][ 92]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.26-22.05.23:725][ 92]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2024.03.26-22.05.23:744][ 92]LogSavePackage: Moving output files for package: /Game/Reordered/Levels/Outside_House_Weaponless
+[2024.03.26-22.05.23:744][ 92]LogSavePackage: Moving '../../../../../../Users/WildBeast/Documents/Unreal Projects/Virus_Outbreak/Saved/Outside_House_Weaponless87CBE57845CE5FE4F039E6ABA4B9C351.tmp' to '../../../../../../Users/WildBeast/Documents/Unreal Projects/Virus_Outbreak/Content/Reordered/Levels/Outside_House_Weaponless.umap'
+[2024.03.26-22.05.23:756][ 92]LogFileHelpers: Saving map 'Outside_House_Weaponless' took 0.092
+[2024.03.26-22.05.23:763][ 92]LogSavePackage: Moving output files for package: /Game/Reordered/Textures/Weapons/PickUps/Ammo/bullet_ammo_gif
+[2024.03.26-22.05.23:763][ 92]LogSavePackage: Moving '../../../../../../Users/WildBeast/Documents/Unreal Projects/Virus_Outbreak/Saved/bullet_ammo_gifF3EF429548A12C73394D40B36D05604F.tmp' to '../../../../../../Users/WildBeast/Documents/Unreal Projects/Virus_Outbreak/Content/Reordered/Textures/Weapons/PickUps/Ammo/bullet_ammo_gif.uasset'
+[2024.03.26-22.05.23:769][ 92]LogSavePackage: Moving output files for package: /Game/Reordered/Textures/Weapons/PickUps/Ammo/bullet_ammo_gif_Sprite_0
+[2024.03.26-22.05.23:769][ 92]LogSavePackage: Moving '../../../../../../Users/WildBeast/Documents/Unreal Projects/Virus_Outbreak/Saved/bullet_ammo_gif_Sprite_09252CB1A478BCEEF06E4E2B3A1D8AFA0.tmp' to '../../../../../../Users/WildBeast/Documents/Unreal Projects/Virus_Outbreak/Content/Reordered/Textures/Weapons/PickUps/Ammo/bullet_ammo_gif_Sprite_0.uasset'
+[2024.03.26-22.05.23:773][ 92]LogSavePackage: Moving output files for package: /Game/Reordered/Textures/Weapons/PickUps/Ammo/bullet_ammo_gif_Sprite_1
+[2024.03.26-22.05.23:773][ 92]LogSavePackage: Moving '../../../../../../Users/WildBeast/Documents/Unreal Projects/Virus_Outbreak/Saved/bullet_ammo_gif_Sprite_17B0DE34D4FB996535E30DDAB5C255183.tmp' to '../../../../../../Users/WildBeast/Documents/Unreal Projects/Virus_Outbreak/Content/Reordered/Textures/Weapons/PickUps/Ammo/bullet_ammo_gif_Sprite_1.uasset'
+[2024.03.26-22.05.23:778][ 92]LogSavePackage: Moving output files for package: /Game/Reordered/Textures/Weapons/PickUps/Ammo/bullet_ammo_gif_Sprite_10
+[2024.03.26-22.05.23:778][ 92]LogSavePackage: Moving '../../../../../../Users/WildBeast/Documents/Unreal Projects/Virus_Outbreak/Saved/bullet_ammo_gif_Sprite_10F26F4CA149C1CB581990C08BE604F0AE.tmp' to '../../../../../../Users/WildBeast/Documents/Unreal Projects/Virus_Outbreak/Content/Reordered/Textures/Weapons/PickUps/Ammo/bullet_ammo_gif_Sprite_10.uasset'
+[2024.03.26-22.05.23:782][ 92]LogSavePackage: Moving output files for package: /Game/Reordered/Textures/Weapons/PickUps/Ammo/bullet_ammo_gif_Sprite_11
+[2024.03.26-22.05.23:782][ 92]LogSavePackage: Moving '../../../../../../Users/WildBeast/Documents/Unreal Projects/Virus_Outbreak/Saved/bullet_ammo_gif_Sprite_11F3CEFB3C4E2DFC4540BD53A068FFEA46.tmp' to '../../../../../../Users/WildBeast/Documents/Unreal Projects/Virus_Outbreak/Content/Reordered/Textures/Weapons/PickUps/Ammo/bullet_ammo_gif_Sprite_11.uasset'
+[2024.03.26-22.05.23:786][ 92]LogSavePackage: Moving output files for package: /Game/Reordered/Textures/Weapons/PickUps/Ammo/bullet_ammo_gif_Sprite_12
+[2024.03.26-22.05.23:786][ 92]LogSavePackage: Moving '../../../../../../Users/WildBeast/Documents/Unreal Projects/Virus_Outbreak/Saved/bullet_ammo_gif_Sprite_12327EED0548363A8B69C77E8E9D5AF149.tmp' to '../../../../../../Users/WildBeast/Documents/Unreal Projects/Virus_Outbreak/Content/Reordered/Textures/Weapons/PickUps/Ammo/bullet_ammo_gif_Sprite_12.uasset'
+[2024.03.26-22.05.23:790][ 92]LogSavePackage: Moving output files for package: /Game/Reordered/Textures/Weapons/PickUps/Ammo/bullet_ammo_gif_Sprite_13
+[2024.03.26-22.05.23:790][ 92]LogSavePackage: Moving '../../../../../../Users/WildBeast/Documents/Unreal Projects/Virus_Outbreak/Saved/bullet_ammo_gif_Sprite_13641F9838468E4558E98CDD8A212DD757.tmp' to '../../../../../../Users/WildBeast/Documents/Unreal Projects/Virus_Outbreak/Content/Reordered/Textures/Weapons/PickUps/Ammo/bullet_ammo_gif_Sprite_13.uasset'
+[2024.03.26-22.05.23:795][ 92]LogSavePackage: Moving output files for package: /Game/Reordered/Textures/Weapons/PickUps/Ammo/bullet_ammo_gif_Sprite_14
+[2024.03.26-22.05.23:795][ 92]LogSavePackage: Moving '../../../../../../Users/WildBeast/Documents/Unreal Projects/Virus_Outbreak/Saved/bullet_ammo_gif_Sprite_1487AA84E042AA4EBF7227DFB292199445.tmp' to '../../../../../../Users/WildBeast/Documents/Unreal Projects/Virus_Outbreak/Content/Reordered/Textures/Weapons/PickUps/Ammo/bullet_ammo_gif_Sprite_14.uasset'
+[2024.03.26-22.05.23:799][ 92]LogSavePackage: Moving output files for package: /Game/Reordered/Textures/Weapons/PickUps/Ammo/bullet_ammo_gif_Sprite_15
+[2024.03.26-22.05.23:799][ 92]LogSavePackage: Moving '../../../../../../Users/WildBeast/Documents/Unreal Projects/Virus_Outbreak/Saved/bullet_ammo_gif_Sprite_151D4A667F4DE03D58B2B532AEA94EEE6D.tmp' to '../../../../../../Users/WildBeast/Documents/Unreal Projects/Virus_Outbreak/Content/Reordered/Textures/Weapons/PickUps/Ammo/bullet_ammo_gif_Sprite_15.uasset'
+[2024.03.26-22.05.23:803][ 92]LogSavePackage: Moving output files for package: /Game/Reordered/Textures/Weapons/PickUps/Ammo/bullet_ammo_gif_Sprite_16
+[2024.03.26-22.05.23:803][ 92]LogSavePackage: Moving '../../../../../../Users/WildBeast/Documents/Unreal Projects/Virus_Outbreak/Saved/bullet_ammo_gif_Sprite_16B6061BAD4F37D74D5864F0AE5FCCA347.tmp' to '../../../../../../Users/WildBeast/Documents/Unreal Projects/Virus_Outbreak/Content/Reordered/Textures/Weapons/PickUps/Ammo/bullet_ammo_gif_Sprite_16.uasset'
+[2024.03.26-22.05.23:808][ 92]LogSavePackage: Moving output files for package: /Game/Reordered/Textures/Weapons/PickUps/Ammo/bullet_ammo_gif_Sprite_17
+[2024.03.26-22.05.23:808][ 92]LogSavePackage: Moving '../../../../../../Users/WildBeast/Documents/Unreal Projects/Virus_Outbreak/Saved/bullet_ammo_gif_Sprite_17712FC88C45C647795E32238AC1EB7591.tmp' to '../../../../../../Users/WildBeast/Documents/Unreal Projects/Virus_Outbreak/Content/Reordered/Textures/Weapons/PickUps/Ammo/bullet_ammo_gif_Sprite_17.uasset'
+[2024.03.26-22.05.23:812][ 92]LogSavePackage: Moving output files for package: /Game/Reordered/Textures/Weapons/PickUps/Ammo/bullet_ammo_gif_Sprite_18
+[2024.03.26-22.05.23:812][ 92]LogSavePackage: Moving '../../../../../../Users/WildBeast/Documents/Unreal Projects/Virus_Outbreak/Saved/bullet_ammo_gif_Sprite_18A8A5846A4D20A720773B45B56B3DD554.tmp' to '../../../../../../Users/WildBeast/Documents/Unreal Projects/Virus_Outbreak/Content/Reordered/Textures/Weapons/PickUps/Ammo/bullet_ammo_gif_Sprite_18.uasset'
+[2024.03.26-22.05.23:816][ 92]LogSavePackage: Moving output files for package: /Game/Reordered/Textures/Weapons/PickUps/Ammo/bullet_ammo_gif_Sprite_19
+[2024.03.26-22.05.23:816][ 92]LogSavePackage: Moving '../../../../../../Users/WildBeast/Documents/Unreal Projects/Virus_Outbreak/Saved/bullet_ammo_gif_Sprite_19FECC0C6345C0FAEEF9C985AE4FB43F33.tmp' to '../../../../../../Users/WildBeast/Documents/Unreal Projects/Virus_Outbreak/Content/Reordered/Textures/Weapons/PickUps/Ammo/bullet_ammo_gif_Sprite_19.uasset'
+[2024.03.26-22.05.23:821][ 92]LogSavePackage: Moving output files for package: /Game/Reordered/Textures/Weapons/PickUps/Ammo/bullet_ammo_gif_Sprite_2
+[2024.03.26-22.05.23:821][ 92]LogSavePackage: Moving '../../../../../../Users/WildBeast/Documents/Unreal Projects/Virus_Outbreak/Saved/bullet_ammo_gif_Sprite_2393628414175332D5D93E3A667A750EA.tmp' to '../../../../../../Users/WildBeast/Documents/Unreal Projects/Virus_Outbreak/Content/Reordered/Textures/Weapons/PickUps/Ammo/bullet_ammo_gif_Sprite_2.uasset'
+[2024.03.26-22.05.23:826][ 92]LogSavePackage: Moving output files for package: /Game/Reordered/Textures/Weapons/PickUps/Ammo/bullet_ammo_gif_Sprite_20
+[2024.03.26-22.05.23:826][ 92]LogSavePackage: Moving '../../../../../../Users/WildBeast/Documents/Unreal Projects/Virus_Outbreak/Saved/bullet_ammo_gif_Sprite_201143FF2347A765D7D76D73AB3EA5D24C.tmp' to '../../../../../../Users/WildBeast/Documents/Unreal Projects/Virus_Outbreak/Content/Reordered/Textures/Weapons/PickUps/Ammo/bullet_ammo_gif_Sprite_20.uasset'
+[2024.03.26-22.05.23:831][ 92]LogSavePackage: Moving output files for package: /Game/Reordered/Textures/Weapons/PickUps/Ammo/bullet_ammo_gif_Sprite_21
+[2024.03.26-22.05.23:831][ 92]LogSavePackage: Moving '../../../../../../Users/WildBeast/Documents/Unreal Projects/Virus_Outbreak/Saved/bullet_ammo_gif_Sprite_212243D1AC4A9CA367814C3E89306F9224.tmp' to '../../../../../../Users/WildBeast/Documents/Unreal Projects/Virus_Outbreak/Content/Reordered/Textures/Weapons/PickUps/Ammo/bullet_ammo_gif_Sprite_21.uasset'
+[2024.03.26-22.05.23:835][ 92]LogSavePackage: Moving output files for package: /Game/Reordered/Textures/Weapons/PickUps/Ammo/bullet_ammo_gif_Sprite_22
+[2024.03.26-22.05.23:835][ 92]LogSavePackage: Moving '../../../../../../Users/WildBeast/Documents/Unreal Projects/Virus_Outbreak/Saved/bullet_ammo_gif_Sprite_22AEE1E08C4ECB069B85D679A98EE26F80.tmp' to '../../../../../../Users/WildBeast/Documents/Unreal Projects/Virus_Outbreak/Content/Reordered/Textures/Weapons/PickUps/Ammo/bullet_ammo_gif_Sprite_22.uasset'
+[2024.03.26-22.05.23:840][ 92]LogSavePackage: Moving output files for package: /Game/Reordered/Textures/Weapons/PickUps/Ammo/bullet_ammo_gif_Sprite_23
+[2024.03.26-22.05.23:840][ 92]LogSavePackage: Moving '../../../../../../Users/WildBeast/Documents/Unreal Projects/Virus_Outbreak/Saved/bullet_ammo_gif_Sprite_233C309D0B4564394900BD179C0DCDDBD9.tmp' to '../../../../../../Users/WildBeast/Documents/Unreal Projects/Virus_Outbreak/Content/Reordered/Textures/Weapons/PickUps/Ammo/bullet_ammo_gif_Sprite_23.uasset'
+[2024.03.26-22.05.23:844][ 92]LogSavePackage: Moving output files for package: /Game/Reordered/Textures/Weapons/PickUps/Ammo/bullet_ammo_gif_Sprite_24
+[2024.03.26-22.05.23:844][ 92]LogSavePackage: Moving '../../../../../../Users/WildBeast/Documents/Unreal Projects/Virus_Outbreak/Saved/bullet_ammo_gif_Sprite_2479D223DF4B77711F119E1EBC616A9DBB.tmp' to '../../../../../../Users/WildBeast/Documents/Unreal Projects/Virus_Outbreak/Content/Reordered/Textures/Weapons/PickUps/Ammo/bullet_ammo_gif_Sprite_24.uasset'
+[2024.03.26-22.05.23:852][ 92]LogSavePackage: Moving output files for package: /Game/Reordered/Textures/Weapons/PickUps/Ammo/bullet_ammo_gif_Sprite_25
+[2024.03.26-22.05.23:852][ 92]LogSavePackage: Moving '../../../../../../Users/WildBeast/Documents/Unreal Projects/Virus_Outbreak/Saved/bullet_ammo_gif_Sprite_25DFE8D7424DA08B25D5B92B8D09DEC0CA.tmp' to '../../../../../../Users/WildBeast/Documents/Unreal Projects/Virus_Outbreak/Content/Reordered/Textures/Weapons/PickUps/Ammo/bullet_ammo_gif_Sprite_25.uasset'
+[2024.03.26-22.05.23:856][ 92]LogSavePackage: Moving output files for package: /Game/Reordered/Textures/Weapons/PickUps/Ammo/bullet_ammo_gif_Sprite_26
+[2024.03.26-22.05.23:856][ 92]LogSavePackage: Moving '../../../../../../Users/WildBeast/Documents/Unreal Projects/Virus_Outbreak/Saved/bullet_ammo_gif_Sprite_26814882D443965EFDB7E5428E37990C6A.tmp' to '../../../../../../Users/WildBeast/Documents/Unreal Projects/Virus_Outbreak/Content/Reordered/Textures/Weapons/PickUps/Ammo/bullet_ammo_gif_Sprite_26.uasset'
+[2024.03.26-22.05.23:860][ 92]LogSavePackage: Moving output files for package: /Game/Reordered/Textures/Weapons/PickUps/Ammo/bullet_ammo_gif_Sprite_27
+[2024.03.26-22.05.23:860][ 92]LogSavePackage: Moving '../../../../../../Users/WildBeast/Documents/Unreal Projects/Virus_Outbreak/Saved/bullet_ammo_gif_Sprite_270B4F225546545F4AA1E867AB7A17E8EB.tmp' to '../../../../../../Users/WildBeast/Documents/Unreal Projects/Virus_Outbreak/Content/Reordered/Textures/Weapons/PickUps/Ammo/bullet_ammo_gif_Sprite_27.uasset'
+[2024.03.26-22.05.23:864][ 92]LogSavePackage: Moving output files for package: /Game/Reordered/Textures/Weapons/PickUps/Ammo/bullet_ammo_gif_Sprite_28
+[2024.03.26-22.05.23:864][ 92]LogSavePackage: Moving '../../../../../../Users/WildBeast/Documents/Unreal Projects/Virus_Outbreak/Saved/bullet_ammo_gif_Sprite_28DBA6744247901CD22A86BCB1C89647F2.tmp' to '../../../../../../Users/WildBeast/Documents/Unreal Projects/Virus_Outbreak/Content/Reordered/Textures/Weapons/PickUps/Ammo/bullet_ammo_gif_Sprite_28.uasset'
+[2024.03.26-22.05.23:868][ 92]LogSavePackage: Moving output files for package: /Game/Reordered/Textures/Weapons/PickUps/Ammo/bullet_ammo_gif_Sprite_29
+[2024.03.26-22.05.23:868][ 92]LogSavePackage: Moving '../../../../../../Users/WildBeast/Documents/Unreal Projects/Virus_Outbreak/Saved/bullet_ammo_gif_Sprite_29C9DF1E614F4C08AAEF0464BD4BCEC772.tmp' to '../../../../../../Users/WildBeast/Documents/Unreal Projects/Virus_Outbreak/Content/Reordered/Textures/Weapons/PickUps/Ammo/bullet_ammo_gif_Sprite_29.uasset'
+[2024.03.26-22.05.23:872][ 92]LogSavePackage: Moving output files for package: /Game/Reordered/Textures/Weapons/PickUps/Ammo/bullet_ammo_gif_Sprite_3
+[2024.03.26-22.05.23:872][ 92]LogSavePackage: Moving '../../../../../../Users/WildBeast/Documents/Unreal Projects/Virus_Outbreak/Saved/bullet_ammo_gif_Sprite_368EAB74B43766EA7C5A2A8BC8FD717D9.tmp' to '../../../../../../Users/WildBeast/Documents/Unreal Projects/Virus_Outbreak/Content/Reordered/Textures/Weapons/PickUps/Ammo/bullet_ammo_gif_Sprite_3.uasset'
+[2024.03.26-22.05.23:876][ 92]LogSavePackage: Moving output files for package: /Game/Reordered/Textures/Weapons/PickUps/Ammo/bullet_ammo_gif_Sprite_30
+[2024.03.26-22.05.23:876][ 92]LogSavePackage: Moving '../../../../../../Users/WildBeast/Documents/Unreal Projects/Virus_Outbreak/Saved/bullet_ammo_gif_Sprite_307431F37F41F8BF08176B309957CAC08D.tmp' to '../../../../../../Users/WildBeast/Documents/Unreal Projects/Virus_Outbreak/Content/Reordered/Textures/Weapons/PickUps/Ammo/bullet_ammo_gif_Sprite_30.uasset'
+[2024.03.26-22.05.23:880][ 92]LogSavePackage: Moving output files for package: /Game/Reordered/Textures/Weapons/PickUps/Ammo/bullet_ammo_gif_Sprite_31
+[2024.03.26-22.05.23:880][ 92]LogSavePackage: Moving '../../../../../../Users/WildBeast/Documents/Unreal Projects/Virus_Outbreak/Saved/bullet_ammo_gif_Sprite_312A8BCB44428A4F5D7725539D391E4BA2.tmp' to '../../../../../../Users/WildBeast/Documents/Unreal Projects/Virus_Outbreak/Content/Reordered/Textures/Weapons/PickUps/Ammo/bullet_ammo_gif_Sprite_31.uasset'
+[2024.03.26-22.05.23:884][ 92]LogSavePackage: Moving output files for package: /Game/Reordered/Textures/Weapons/PickUps/Ammo/bullet_ammo_gif_Sprite_32
+[2024.03.26-22.05.23:884][ 92]LogSavePackage: Moving '../../../../../../Users/WildBeast/Documents/Unreal Projects/Virus_Outbreak/Saved/bullet_ammo_gif_Sprite_32005A17F549F3366678DDB6B79ABD223D.tmp' to '../../../../../../Users/WildBeast/Documents/Unreal Projects/Virus_Outbreak/Content/Reordered/Textures/Weapons/PickUps/Ammo/bullet_ammo_gif_Sprite_32.uasset'
+[2024.03.26-22.05.23:888][ 92]LogSavePackage: Moving output files for package: /Game/Reordered/Textures/Weapons/PickUps/Ammo/bullet_ammo_gif_Sprite_33
+[2024.03.26-22.05.23:889][ 92]LogSavePackage: Moving '../../../../../../Users/WildBeast/Documents/Unreal Projects/Virus_Outbreak/Saved/bullet_ammo_gif_Sprite_33D634EF9E4A7F67D6A3822C94D22C2647.tmp' to '../../../../../../Users/WildBeast/Documents/Unreal Projects/Virus_Outbreak/Content/Reordered/Textures/Weapons/PickUps/Ammo/bullet_ammo_gif_Sprite_33.uasset'
+[2024.03.26-22.05.23:893][ 92]LogSavePackage: Moving output files for package: /Game/Reordered/Textures/Weapons/PickUps/Ammo/bullet_ammo_gif_Sprite_34
+[2024.03.26-22.05.23:893][ 92]LogSavePackage: Moving '../../../../../../Users/WildBeast/Documents/Unreal Projects/Virus_Outbreak/Saved/bullet_ammo_gif_Sprite_343DEEF98F4FF5270F25DC7397308F6252.tmp' to '../../../../../../Users/WildBeast/Documents/Unreal Projects/Virus_Outbreak/Content/Reordered/Textures/Weapons/PickUps/Ammo/bullet_ammo_gif_Sprite_34.uasset'
+[2024.03.26-22.05.23:898][ 92]LogSavePackage: Moving output files for package: /Game/Reordered/Textures/Weapons/PickUps/Ammo/bullet_ammo_gif_Sprite_35
+[2024.03.26-22.05.23:898][ 92]LogSavePackage: Moving '../../../../../../Users/WildBeast/Documents/Unreal Projects/Virus_Outbreak/Saved/bullet_ammo_gif_Sprite_357D82E6954A1E33BC004671AC247747D9.tmp' to '../../../../../../Users/WildBeast/Documents/Unreal Projects/Virus_Outbreak/Content/Reordered/Textures/Weapons/PickUps/Ammo/bullet_ammo_gif_Sprite_35.uasset'
+[2024.03.26-22.05.23:902][ 92]LogSavePackage: Moving output files for package: /Game/Reordered/Textures/Weapons/PickUps/Ammo/bullet_ammo_gif_Sprite_36
+[2024.03.26-22.05.23:902][ 92]LogSavePackage: Moving '../../../../../../Users/WildBeast/Documents/Unreal Projects/Virus_Outbreak/Saved/bullet_ammo_gif_Sprite_366865C9F7434712741DDB22ABDDD92C85.tmp' to '../../../../../../Users/WildBeast/Documents/Unreal Projects/Virus_Outbreak/Content/Reordered/Textures/Weapons/PickUps/Ammo/bullet_ammo_gif_Sprite_36.uasset'
+[2024.03.26-22.05.23:907][ 92]LogSavePackage: Moving output files for package: /Game/Reordered/Textures/Weapons/PickUps/Ammo/bullet_ammo_gif_Sprite_37
+[2024.03.26-22.05.23:907][ 92]LogSavePackage: Moving '../../../../../../Users/WildBeast/Documents/Unreal Projects/Virus_Outbreak/Saved/bullet_ammo_gif_Sprite_371C4D725C4A5FE345C8C8C8B0B5E4E604.tmp' to '../../../../../../Users/WildBeast/Documents/Unreal Projects/Virus_Outbreak/Content/Reordered/Textures/Weapons/PickUps/Ammo/bullet_ammo_gif_Sprite_37.uasset'
+[2024.03.26-22.05.23:911][ 92]LogSavePackage: Moving output files for package: /Game/Reordered/Textures/Weapons/PickUps/Ammo/bullet_ammo_gif_Sprite_38
+[2024.03.26-22.05.23:911][ 92]LogSavePackage: Moving '../../../../../../Users/WildBeast/Documents/Unreal Projects/Virus_Outbreak/Saved/bullet_ammo_gif_Sprite_383C0C69DC4EF397E5E4F6F7941C28A535.tmp' to '../../../../../../Users/WildBeast/Documents/Unreal Projects/Virus_Outbreak/Content/Reordered/Textures/Weapons/PickUps/Ammo/bullet_ammo_gif_Sprite_38.uasset'
+[2024.03.26-22.05.23:916][ 92]LogSavePackage: Moving output files for package: /Game/Reordered/Textures/Weapons/PickUps/Ammo/bullet_ammo_gif_Sprite_39
+[2024.03.26-22.05.23:916][ 92]LogSavePackage: Moving '../../../../../../Users/WildBeast/Documents/Unreal Projects/Virus_Outbreak/Saved/bullet_ammo_gif_Sprite_3986CAE99840D56AF685AD13A6843F3289.tmp' to '../../../../../../Users/WildBeast/Documents/Unreal Projects/Virus_Outbreak/Content/Reordered/Textures/Weapons/PickUps/Ammo/bullet_ammo_gif_Sprite_39.uasset'
+[2024.03.26-22.05.23:920][ 92]LogSavePackage: Moving output files for package: /Game/Reordered/Textures/Weapons/PickUps/Ammo/bullet_ammo_gif_Sprite_4
+[2024.03.26-22.05.23:920][ 92]LogSavePackage: Moving '../../../../../../Users/WildBeast/Documents/Unreal Projects/Virus_Outbreak/Saved/bullet_ammo_gif_Sprite_4FF8800CE49BF6E7F687737AE4DFDCB0F.tmp' to '../../../../../../Users/WildBeast/Documents/Unreal Projects/Virus_Outbreak/Content/Reordered/Textures/Weapons/PickUps/Ammo/bullet_ammo_gif_Sprite_4.uasset'
+[2024.03.26-22.05.23:924][ 92]LogSavePackage: Moving output files for package: /Game/Reordered/Textures/Weapons/PickUps/Ammo/bullet_ammo_gif_Sprite_40
+[2024.03.26-22.05.23:924][ 92]LogSavePackage: Moving '../../../../../../Users/WildBeast/Documents/Unreal Projects/Virus_Outbreak/Saved/bullet_ammo_gif_Sprite_40620B84ED4385A60B1F848DB4A0CC50E8.tmp' to '../../../../../../Users/WildBeast/Documents/Unreal Projects/Virus_Outbreak/Content/Reordered/Textures/Weapons/PickUps/Ammo/bullet_ammo_gif_Sprite_40.uasset'
+[2024.03.26-22.05.23:929][ 92]LogSavePackage: Moving output files for package: /Game/Reordered/Textures/Weapons/PickUps/Ammo/bullet_ammo_gif_Sprite_5
+[2024.03.26-22.05.23:930][ 92]LogSavePackage: Moving '../../../../../../Users/WildBeast/Documents/Unreal Projects/Virus_Outbreak/Saved/bullet_ammo_gif_Sprite_5B2D4A13D40A0A1E0AC0B228E3294EE19.tmp' to '../../../../../../Users/WildBeast/Documents/Unreal Projects/Virus_Outbreak/Content/Reordered/Textures/Weapons/PickUps/Ammo/bullet_ammo_gif_Sprite_5.uasset'
+[2024.03.26-22.05.23:934][ 92]LogSavePackage: Moving output files for package: /Game/Reordered/Textures/Weapons/PickUps/Ammo/bullet_ammo_gif_Sprite_6
+[2024.03.26-22.05.23:935][ 92]LogSavePackage: Moving '../../../../../../Users/WildBeast/Documents/Unreal Projects/Virus_Outbreak/Saved/bullet_ammo_gif_Sprite_6E6900D0E48E34F26794AFBAD03045F72.tmp' to '../../../../../../Users/WildBeast/Documents/Unreal Projects/Virus_Outbreak/Content/Reordered/Textures/Weapons/PickUps/Ammo/bullet_ammo_gif_Sprite_6.uasset'
+[2024.03.26-22.05.23:938][ 92]LogSavePackage: Moving output files for package: /Game/Reordered/Textures/Weapons/PickUps/Ammo/bullet_ammo_gif_Sprite_7
+[2024.03.26-22.05.23:939][ 92]LogSavePackage: Moving '../../../../../../Users/WildBeast/Documents/Unreal Projects/Virus_Outbreak/Saved/bullet_ammo_gif_Sprite_79503C0E542A39F524E79D9BEF3F577D6.tmp' to '../../../../../../Users/WildBeast/Documents/Unreal Projects/Virus_Outbreak/Content/Reordered/Textures/Weapons/PickUps/Ammo/bullet_ammo_gif_Sprite_7.uasset'
+[2024.03.26-22.05.23:942][ 92]LogSavePackage: Moving output files for package: /Game/Reordered/Textures/Weapons/PickUps/Ammo/bullet_ammo_gif_Sprite_8
+[2024.03.26-22.05.23:942][ 92]LogSavePackage: Moving '../../../../../../Users/WildBeast/Documents/Unreal Projects/Virus_Outbreak/Saved/bullet_ammo_gif_Sprite_86AEF8D84443CC6AFAD3AE0877446551C.tmp' to '../../../../../../Users/WildBeast/Documents/Unreal Projects/Virus_Outbreak/Content/Reordered/Textures/Weapons/PickUps/Ammo/bullet_ammo_gif_Sprite_8.uasset'
+[2024.03.26-22.05.23:945][ 92]LogSavePackage: Moving output files for package: /Game/Reordered/Textures/Weapons/PickUps/Ammo/bullet_ammo_gif_Sprite_9
+[2024.03.26-22.05.23:946][ 92]LogSavePackage: Moving '../../../../../../Users/WildBeast/Documents/Unreal Projects/Virus_Outbreak/Saved/bullet_ammo_gif_Sprite_98D7A5D4E4457BBD5DE0660BAB287222D.tmp' to '../../../../../../Users/WildBeast/Documents/Unreal Projects/Virus_Outbreak/Content/Reordered/Textures/Weapons/PickUps/Ammo/bullet_ammo_gif_Sprite_9.uasset'
+[2024.03.26-22.05.23:961][ 92]LogSavePackage: Moving output files for package: /Game/Reordered/Blueprints/HealthPickUp
+[2024.03.26-22.05.23:961][ 92]LogSavePackage: Moving '../../../../../../Users/WildBeast/Documents/Unreal Projects/Virus_Outbreak/Saved/HealthPickUpCDE4040B4C2117AA1DB520BE5374D570.tmp' to '../../../../../../Users/WildBeast/Documents/Unreal Projects/Virus_Outbreak/Content/Reordered/Blueprints/HealthPickUp.uasset'
+[2024.03.26-22.05.23:968][ 92]LogSavePackage: Moving output files for package: /Game/Testing_Enemy/Spike/Master_Actor
+[2024.03.26-22.05.23:969][ 92]LogSavePackage: Moving '../../../../../../Users/WildBeast/Documents/Unreal Projects/Virus_Outbreak/Saved/Master_Actor85C7A69B4DE62DB807CEDC930B09E50B.tmp' to '../../../../../../Users/WildBeast/Documents/Unreal Projects/Virus_Outbreak/Content/Testing_Enemy/Spike/Master_Actor.uasset'
+[2024.03.26-22.05.24:007][ 92]LogSavePackage: Moving output files for package: /Game/Reordered/Blueprints/Player/Player
+[2024.03.26-22.05.24:008][ 92]LogSavePackage: Moving '../../../../../../Users/WildBeast/Documents/Unreal Projects/Virus_Outbreak/Saved/Player2268D6E2435D7BDAFD1F1492719784B8.tmp' to '../../../../../../Users/WildBeast/Documents/Unreal Projects/Virus_Outbreak/Content/Reordered/Blueprints/Player/Player.uasset'
+[2024.03.26-22.05.24:014][ 92]LogSavePackage: Moving output files for package: /Game/Reordered/Blueprints/Player/you_died_screen_of
+[2024.03.26-22.05.24:014][ 92]LogSavePackage: Moving '../../../../../../Users/WildBeast/Documents/Unreal Projects/Virus_Outbreak/Saved/you_died_screen_of83191BAD4C54F4B93C739CBDADE9F254.tmp' to '../../../../../../Users/WildBeast/Documents/Unreal Projects/Virus_Outbreak/Content/Reordered/Blueprints/Player/you_died_screen_of.uasset'
+[2024.03.26-22.05.24:041][ 92]LogFileHelpers: InternalPromptForCheckoutAndSave took 423 ms (total: 2.54 sec)
+[2024.03.26-22.05.24:051][ 92]AssetCheck: New page: Asset Save: multiple assets
+[2024.03.26-22.05.24:051][ 92]LogContentValidation: Display: Validating /Script/Engine.World /Game/Reordered/Levels/Outside_House_Weaponless.Outside_House_Weaponless
+[2024.03.26-22.05.24:051][ 92]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Reordered/Textures/Weapons/PickUps/Ammo/bullet_ammo_gif.bullet_ammo_gif
+[2024.03.26-22.05.24:051][ 92]LogContentValidation: Display: Validating /Script/Paper2D.PaperSprite /Game/Reordered/Textures/Weapons/PickUps/Ammo/bullet_ammo_gif_Sprite_0.bullet_ammo_gif_Sprite_0
+[2024.03.26-22.05.24:051][ 92]LogContentValidation: Display: Validating /Script/Paper2D.PaperSprite /Game/Reordered/Textures/Weapons/PickUps/Ammo/bullet_ammo_gif_Sprite_1.bullet_ammo_gif_Sprite_1
+[2024.03.26-22.05.24:051][ 92]LogContentValidation: Display: Validating /Script/Paper2D.PaperSprite /Game/Reordered/Textures/Weapons/PickUps/Ammo/bullet_ammo_gif_Sprite_10.bullet_ammo_gif_Sprite_10
+[2024.03.26-22.05.24:051][ 92]LogContentValidation: Display: Validating /Script/Paper2D.PaperSprite /Game/Reordered/Textures/Weapons/PickUps/Ammo/bullet_ammo_gif_Sprite_11.bullet_ammo_gif_Sprite_11
+[2024.03.26-22.05.24:051][ 92]LogContentValidation: Display: Validating /Script/Paper2D.PaperSprite /Game/Reordered/Textures/Weapons/PickUps/Ammo/bullet_ammo_gif_Sprite_12.bullet_ammo_gif_Sprite_12
+[2024.03.26-22.05.24:051][ 92]LogContentValidation: Display: Validating /Script/Paper2D.PaperSprite /Game/Reordered/Textures/Weapons/PickUps/Ammo/bullet_ammo_gif_Sprite_13.bullet_ammo_gif_Sprite_13
+[2024.03.26-22.05.24:051][ 92]LogContentValidation: Display: Validating /Script/Paper2D.PaperSprite /Game/Reordered/Textures/Weapons/PickUps/Ammo/bullet_ammo_gif_Sprite_14.bullet_ammo_gif_Sprite_14
+[2024.03.26-22.05.24:051][ 92]LogContentValidation: Display: Validating /Script/Paper2D.PaperSprite /Game/Reordered/Textures/Weapons/PickUps/Ammo/bullet_ammo_gif_Sprite_15.bullet_ammo_gif_Sprite_15
+[2024.03.26-22.05.24:051][ 92]LogContentValidation: Display: Validating /Script/Paper2D.PaperSprite /Game/Reordered/Textures/Weapons/PickUps/Ammo/bullet_ammo_gif_Sprite_16.bullet_ammo_gif_Sprite_16
+[2024.03.26-22.05.24:051][ 92]LogContentValidation: Display: Validating /Script/Paper2D.PaperSprite /Game/Reordered/Textures/Weapons/PickUps/Ammo/bullet_ammo_gif_Sprite_17.bullet_ammo_gif_Sprite_17
+[2024.03.26-22.05.24:051][ 92]LogContentValidation: Display: Validating /Script/Paper2D.PaperSprite /Game/Reordered/Textures/Weapons/PickUps/Ammo/bullet_ammo_gif_Sprite_18.bullet_ammo_gif_Sprite_18
+[2024.03.26-22.05.24:051][ 92]LogContentValidation: Display: Validating /Script/Paper2D.PaperSprite /Game/Reordered/Textures/Weapons/PickUps/Ammo/bullet_ammo_gif_Sprite_19.bullet_ammo_gif_Sprite_19
+[2024.03.26-22.05.24:051][ 92]LogContentValidation: Display: Validating /Script/Paper2D.PaperSprite /Game/Reordered/Textures/Weapons/PickUps/Ammo/bullet_ammo_gif_Sprite_2.bullet_ammo_gif_Sprite_2
+[2024.03.26-22.05.24:051][ 92]LogContentValidation: Display: Validating /Script/Paper2D.PaperSprite /Game/Reordered/Textures/Weapons/PickUps/Ammo/bullet_ammo_gif_Sprite_20.bullet_ammo_gif_Sprite_20
+[2024.03.26-22.05.24:051][ 92]LogContentValidation: Display: Validating /Script/Paper2D.PaperSprite /Game/Reordered/Textures/Weapons/PickUps/Ammo/bullet_ammo_gif_Sprite_21.bullet_ammo_gif_Sprite_21
+[2024.03.26-22.05.24:051][ 92]LogContentValidation: Display: Validating /Script/Paper2D.PaperSprite /Game/Reordered/Textures/Weapons/PickUps/Ammo/bullet_ammo_gif_Sprite_22.bullet_ammo_gif_Sprite_22
+[2024.03.26-22.05.24:051][ 92]LogContentValidation: Display: Validating /Script/Paper2D.PaperSprite /Game/Reordered/Textures/Weapons/PickUps/Ammo/bullet_ammo_gif_Sprite_23.bullet_ammo_gif_Sprite_23
+[2024.03.26-22.05.24:051][ 92]LogContentValidation: Display: Validating /Script/Paper2D.PaperSprite /Game/Reordered/Textures/Weapons/PickUps/Ammo/bullet_ammo_gif_Sprite_24.bullet_ammo_gif_Sprite_24
+[2024.03.26-22.05.24:051][ 92]LogContentValidation: Display: Validating /Script/Paper2D.PaperSprite /Game/Reordered/Textures/Weapons/PickUps/Ammo/bullet_ammo_gif_Sprite_25.bullet_ammo_gif_Sprite_25
+[2024.03.26-22.05.24:051][ 92]LogContentValidation: Display: Validating /Script/Paper2D.PaperSprite /Game/Reordered/Textures/Weapons/PickUps/Ammo/bullet_ammo_gif_Sprite_26.bullet_ammo_gif_Sprite_26
+[2024.03.26-22.05.24:051][ 92]LogContentValidation: Display: Validating /Script/Paper2D.PaperSprite /Game/Reordered/Textures/Weapons/PickUps/Ammo/bullet_ammo_gif_Sprite_27.bullet_ammo_gif_Sprite_27
+[2024.03.26-22.05.24:051][ 92]LogContentValidation: Display: Validating /Script/Paper2D.PaperSprite /Game/Reordered/Textures/Weapons/PickUps/Ammo/bullet_ammo_gif_Sprite_28.bullet_ammo_gif_Sprite_28
+[2024.03.26-22.05.24:051][ 92]LogContentValidation: Display: Validating /Script/Paper2D.PaperSprite /Game/Reordered/Textures/Weapons/PickUps/Ammo/bullet_ammo_gif_Sprite_29.bullet_ammo_gif_Sprite_29
+[2024.03.26-22.05.24:051][ 92]LogContentValidation: Display: Validating /Script/Paper2D.PaperSprite /Game/Reordered/Textures/Weapons/PickUps/Ammo/bullet_ammo_gif_Sprite_3.bullet_ammo_gif_Sprite_3
+[2024.03.26-22.05.24:051][ 92]LogContentValidation: Display: Validating /Script/Paper2D.PaperSprite /Game/Reordered/Textures/Weapons/PickUps/Ammo/bullet_ammo_gif_Sprite_30.bullet_ammo_gif_Sprite_30
+[2024.03.26-22.05.24:051][ 92]LogContentValidation: Display: Validating /Script/Paper2D.PaperSprite /Game/Reordered/Textures/Weapons/PickUps/Ammo/bullet_ammo_gif_Sprite_31.bullet_ammo_gif_Sprite_31
+[2024.03.26-22.05.24:051][ 92]LogContentValidation: Display: Validating /Script/Paper2D.PaperSprite /Game/Reordered/Textures/Weapons/PickUps/Ammo/bullet_ammo_gif_Sprite_32.bullet_ammo_gif_Sprite_32
+[2024.03.26-22.05.24:051][ 92]LogContentValidation: Display: Validating /Script/Paper2D.PaperSprite /Game/Reordered/Textures/Weapons/PickUps/Ammo/bullet_ammo_gif_Sprite_33.bullet_ammo_gif_Sprite_33
+[2024.03.26-22.05.24:051][ 92]LogContentValidation: Display: Validating /Script/Paper2D.PaperSprite /Game/Reordered/Textures/Weapons/PickUps/Ammo/bullet_ammo_gif_Sprite_34.bullet_ammo_gif_Sprite_34
+[2024.03.26-22.05.24:051][ 92]LogContentValidation: Display: Validating /Script/Paper2D.PaperSprite /Game/Reordered/Textures/Weapons/PickUps/Ammo/bullet_ammo_gif_Sprite_35.bullet_ammo_gif_Sprite_35
+[2024.03.26-22.05.24:051][ 92]LogContentValidation: Display: Validating /Script/Paper2D.PaperSprite /Game/Reordered/Textures/Weapons/PickUps/Ammo/bullet_ammo_gif_Sprite_36.bullet_ammo_gif_Sprite_36
+[2024.03.26-22.05.24:051][ 92]LogContentValidation: Display: Validating /Script/Paper2D.PaperSprite /Game/Reordered/Textures/Weapons/PickUps/Ammo/bullet_ammo_gif_Sprite_37.bullet_ammo_gif_Sprite_37
+[2024.03.26-22.05.24:051][ 92]LogContentValidation: Display: Validating /Script/Paper2D.PaperSprite /Game/Reordered/Textures/Weapons/PickUps/Ammo/bullet_ammo_gif_Sprite_38.bullet_ammo_gif_Sprite_38
+[2024.03.26-22.05.24:051][ 92]LogContentValidation: Display: Validating /Script/Paper2D.PaperSprite /Game/Reordered/Textures/Weapons/PickUps/Ammo/bullet_ammo_gif_Sprite_39.bullet_ammo_gif_Sprite_39
+[2024.03.26-22.05.24:051][ 92]LogContentValidation: Display: Validating /Script/Paper2D.PaperSprite /Game/Reordered/Textures/Weapons/PickUps/Ammo/bullet_ammo_gif_Sprite_4.bullet_ammo_gif_Sprite_4
+[2024.03.26-22.05.24:051][ 92]LogContentValidation: Display: Validating /Script/Paper2D.PaperSprite /Game/Reordered/Textures/Weapons/PickUps/Ammo/bullet_ammo_gif_Sprite_40.bullet_ammo_gif_Sprite_40
+[2024.03.26-22.05.24:051][ 92]LogContentValidation: Display: Validating /Script/Paper2D.PaperSprite /Game/Reordered/Textures/Weapons/PickUps/Ammo/bullet_ammo_gif_Sprite_5.bullet_ammo_gif_Sprite_5
+[2024.03.26-22.05.24:051][ 92]LogContentValidation: Display: Validating /Script/Paper2D.PaperSprite /Game/Reordered/Textures/Weapons/PickUps/Ammo/bullet_ammo_gif_Sprite_6.bullet_ammo_gif_Sprite_6
+[2024.03.26-22.05.24:051][ 92]LogContentValidation: Display: Validating /Script/Paper2D.PaperSprite /Game/Reordered/Textures/Weapons/PickUps/Ammo/bullet_ammo_gif_Sprite_7.bullet_ammo_gif_Sprite_7
+[2024.03.26-22.05.24:051][ 92]LogContentValidation: Display: Validating /Script/Paper2D.PaperSprite /Game/Reordered/Textures/Weapons/PickUps/Ammo/bullet_ammo_gif_Sprite_8.bullet_ammo_gif_Sprite_8
+[2024.03.26-22.05.24:051][ 92]LogContentValidation: Display: Validating /Script/Paper2D.PaperSprite /Game/Reordered/Textures/Weapons/PickUps/Ammo/bullet_ammo_gif_Sprite_9.bullet_ammo_gif_Sprite_9
+[2024.03.26-22.05.24:051][ 92]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Reordered/Blueprints/HealthPickUp.HealthPickUp
+[2024.03.26-22.05.24:051][ 92]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Testing_Enemy/Spike/Master_Actor.Master_Actor
+[2024.03.26-22.05.24:052][ 92]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Reordered/Blueprints/Player/Player.Player
+[2024.03.26-22.05.24:052][ 92]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Reordered/Blueprints/Player/you_died_screen_of.you_died_screen_of
+[2024.03.26-22.05.29:238][214]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Reordered/Blueprints/Player/you_died_screen_of.you_died_screen_of
+[2024.03.26-22.05.29:439][214]LogViewport: Scene viewport resized to 1895x1227, mode Windowed.
+[2024.03.26-22.05.33:545][284]LogViewport: Scene viewport resized to 1890x1262, mode Windowed.
+[2024.03.26-22.05.33:713][286]LogViewport: Scene viewport resized to 567x272, mode Windowed.
+[2024.03.26-22.05.34:291][294]LogViewport: Scene viewport resized to 873x514, mode Windowed.
+[2024.03.26-22.06.00:085][506]LogSlate: Window 'Color Picker' being destroyed
+[2024.03.26-22.06.06:817][567]LogViewport: Scene viewport resized to 868x548, mode Windowed.
+[2024.03.26-22.06.06:977][569]LogViewport: Scene viewport resized to 567x306, mode Windowed.
+[2024.03.26-22.06.07:048][571]LogViewport: Scene viewport resized to 1895x1227, mode Windowed.
+[2024.03.26-22.06.07:272][574]LogViewport: Scene viewport resized to 1890x1262, mode Windowed.
+[2024.03.26-22.06.07:448][576]LogViewport: Scene viewport resized to 1895x1227, mode Windowed.
+[2024.03.26-22.06.08:138][591]LogSlate: Window 'you_died_screen_of' being destroyed
+[2024.03.26-22.06.12:310][672]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.03.26-22.06.12:322][672]BlueprintLog: New page: Pre-Play auto-recompile
+[2024.03.26-22.06.12:337][672]LogPlayLevel: [PlayLevel] Compiling Player before play...
+[2024.03.26-22.06.12:501][672]LogUObjectHash: Compacting FUObjectHashTables data took   2.39ms
+[2024.03.26-22.06.12:512][672]LogPlayLevel: PlayLevel: Blueprint regeneration took 190 ms (1 blueprints)
+[2024.03.26-22.06.12:512][672]PIE: New page: PIE session: Outside_House_Weaponless (27 Mar 2024, 02:06:12)
+[2024.03.26-22.06.12:513][672]LogPlayLevel: Creating play world package: /Game/Reordered/Levels/UEDPIE_0_Outside_House_Weaponless
+[2024.03.26-22.06.12:518][672]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004860s)
+[2024.03.26-22.06.12:518][672]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Reordered/Levels/Outside_House_Weaponless.Outside_House_Weaponless to /Game/Reordered/Levels/UEDPIE_0_Outside_House_Weaponless.Outside_House_Weaponless (0.004901s)
+[2024.03.26-22.06.12:543][672]LogUObjectHash: Compacting FUObjectHashTables data took   2.53ms
+[2024.03.26-22.06.12:545][672]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.26-22.06.12:545][672]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.26-22.06.12:546][672]LogAIModule: Creating AISystem for world Outside_House_Weaponless
+[2024.03.26-22.06.12:546][672]LogPlayLevel: PIE: World Init took: (0.001304s)
+[2024.03.26-22.06.12:546][672]LogAudio: Display: Creating Audio Device:                 Id: 61, Scope: Unique, Realtime: True
+[2024.03.26-22.06.12:546][672]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.03.26-22.06.12:546][672]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.03.26-22.06.12:546][672]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.03.26-22.06.12:546][672]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.03.26-22.06.12:546][672]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.03.26-22.06.12:546][672]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.03.26-22.06.12:546][672]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.03.26-22.06.12:546][672]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.03.26-22.06.12:547][672]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.03.26-22.06.12:547][672]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.03.26-22.06.12:547][672]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.03.26-22.06.12:550][672]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.03.26-22.06.12:562][672]LogAudioMixer: Display: Using Audio Hardware Device Headphones (High Definition Audio Device)
+[2024.03.26-22.06.12:563][672]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.03.26-22.06.12:563][672]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.03.26-22.06.12:563][672]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.03.26-22.06.12:564][672]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=61
+[2024.03.26-22.06.12:564][672]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=61
+[2024.03.26-22.06.12:566][672]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=61
+[2024.03.26-22.06.12:566][672]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=61
+[2024.03.26-22.06.12:566][672]LogInit: FAudioDevice initialized with ID 61.
+[2024.03.26-22.06.12:566][672]LogAudio: Display: Audio Device (ID: 61) registered with world 'Outside_House_Weaponless'.
+[2024.03.26-22.06.12:566][672]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 61
+[2024.03.26-22.06.12:569][672]LogLoad: Game class is 'GameMode_C'
+[2024.03.26-22.06.12:578][672]LogWorld: Bringing World /Game/Reordered/Levels/UEDPIE_0_Outside_House_Weaponless.Outside_House_Weaponless up for play (max tick rate 60) at 2024.03.27-00.06.12
+[2024.03.26-22.06.12:579][672]LogWorld: Bringing up level for play took: 0.009143
+[2024.03.26-22.06.12:581][672]LogOnline: OSS: Created online subsystem instance for: :Context_76
+[2024.03.26-22.06.12:671][672]PIE: Server logged in
+[2024.03.26-22.06.12:672][672]PIE: Play in editor total start time 0.35 seconds.
+[2024.03.26-22.06.30:719][106]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.26-22.06.30:720][106]LogWorld: BeginTearingDown for /Game/Reordered/Levels/UEDPIE_0_Outside_House_Weaponless
+[2024.03.26-22.06.30:720][106]LogWorld: UWorld::CleanupWorld for Outside_House_Weaponless, bSessionEnded=true, bCleanupResources=true
+[2024.03.26-22.06.30:720][106]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.26-22.06.30:766][106]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.03.26-22.06.30:770][106]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.26-22.06.30:794][106]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.26-22.06.30:795][106]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 61
+[2024.03.26-22.06.30:795][106]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=61
+[2024.03.26-22.06.30:797][106]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=61
+[2024.03.26-22.06.30:806][106]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2024.03.26-22.06.30:916][107]LogPlayLevel: Display: Destroying online subsystem :Context_76
+[2024.03.26-22.06.35:776][196]BlueprintLog: New page: Compile Door_Teleport
+[2024.03.26-22.06.35:845][196]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2024.03.26-22.06.38:520][241]BlueprintLog: New page: Compile Door_Teleport
+[2024.03.26-22.06.38:589][241]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2024.03.26-22.06.45:612][370]LogEditorTransaction: Undo Change Bool Pin Value
+[2024.03.26-22.06.46:129][375]LogEditorTransaction: Undo Change Bool Pin Value
+[2024.03.26-22.06.46:916][386]LogEditorTransaction: Undo Change Bool Pin Value
+[2024.03.26-22.06.49:644][428]LogEditorTransaction: Undo Change Color Pin Value
+[2024.03.26-22.06.55:154][518]LogEditorTransaction: Redo Change Color Pin Value
+[2024.03.26-22.07.01:633][620]BlueprintLog: New page: Compile Player
+[2024.03.26-22.07.01:715][620]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2024.03.26-22.07.05:099][674]BlueprintLog: New page: Compile Player
+[2024.03.26-22.07.05:185][674]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2024.03.26-22.07.05:874][682]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.26-22.07.06:032][682]LogSavePackage: Moving output files for package: /Game/Reordered/Blueprints/Player/Player
+[2024.03.26-22.07.06:033][682]LogSavePackage: Moving '../../../../../../Users/WildBeast/Documents/Unreal Projects/Virus_Outbreak/Saved/PlayerEB0CA25343C5840C771754A03C457B86.tmp' to '../../../../../../Users/WildBeast/Documents/Unreal Projects/Virus_Outbreak/Content/Reordered/Blueprints/Player/Player.uasset'
+[2024.03.26-22.07.06:059][682]LogFileHelpers: InternalPromptForCheckoutAndSave took 184 ms (total: 2.72 sec)
+[2024.03.26-22.07.06:060][682]AssetCheck: New page: Asset Save: Player
+[2024.03.26-22.07.06:060][682]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Reordered/Blueprints/Player/Player.Player
+[2024.03.26-22.07.09:386][754]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.03.26-22.07.09:412][754]BlueprintLog: New page: Pre-Play auto-recompile
+[2024.03.26-22.07.09:413][754]LogPlayLevel: [PlayLevel] Compiling Door_Teleport before play...
+[2024.03.26-22.07.09:514][754]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2024.03.26-22.07.09:526][754]LogPlayLevel: PlayLevel: Blueprint regeneration took 113 ms (1 blueprints)
+[2024.03.26-22.07.09:526][754]PIE: New page: PIE session: Outside_House_Weaponless (27 Mar 2024, 02:07:09)
+[2024.03.26-22.07.09:526][754]LogPlayLevel: Creating play world package: /Game/Reordered/Levels/UEDPIE_0_Outside_House_Weaponless
+[2024.03.26-22.07.09:531][754]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004525s)
+[2024.03.26-22.07.09:531][754]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Reordered/Levels/Outside_House_Weaponless.Outside_House_Weaponless to /Game/Reordered/Levels/UEDPIE_0_Outside_House_Weaponless.Outside_House_Weaponless (0.004561s)
+[2024.03.26-22.07.09:556][754]LogUObjectHash: Compacting FUObjectHashTables data took   2.44ms
+[2024.03.26-22.07.09:558][754]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.26-22.07.09:558][754]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.26-22.07.09:559][754]LogAIModule: Creating AISystem for world Outside_House_Weaponless
+[2024.03.26-22.07.09:559][754]LogPlayLevel: PIE: World Init took: (0.001224s)
+[2024.03.26-22.07.09:560][754]LogAudio: Display: Creating Audio Device:                 Id: 62, Scope: Unique, Realtime: True
+[2024.03.26-22.07.09:560][754]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.03.26-22.07.09:560][754]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.03.26-22.07.09:560][754]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.03.26-22.07.09:560][754]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.03.26-22.07.09:560][754]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.03.26-22.07.09:560][754]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.03.26-22.07.09:560][754]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.03.26-22.07.09:560][754]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.03.26-22.07.09:560][754]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.03.26-22.07.09:560][754]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.03.26-22.07.09:560][754]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.03.26-22.07.09:563][754]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.03.26-22.07.09:576][754]LogAudioMixer: Display: Using Audio Hardware Device Headphones (High Definition Audio Device)
+[2024.03.26-22.07.09:576][754]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.03.26-22.07.09:576][754]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.03.26-22.07.09:576][754]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.03.26-22.07.09:577][754]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=62
+[2024.03.26-22.07.09:577][754]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=62
+[2024.03.26-22.07.09:579][754]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=62
+[2024.03.26-22.07.09:580][754]LogInit: FAudioDevice initialized with ID 62.
+[2024.03.26-22.07.09:580][754]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=62
+[2024.03.26-22.07.09:580][754]LogAudio: Display: Audio Device (ID: 62) registered with world 'Outside_House_Weaponless'.
+[2024.03.26-22.07.09:580][754]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 62
+[2024.03.26-22.07.09:583][754]LogLoad: Game class is 'GameMode_C'
+[2024.03.26-22.07.09:591][754]LogWorld: Bringing World /Game/Reordered/Levels/UEDPIE_0_Outside_House_Weaponless.Outside_House_Weaponless up for play (max tick rate 60) at 2024.03.27-00.07.09
+[2024.03.26-22.07.09:593][754]LogWorld: Bringing up level for play took: 0.009388
+[2024.03.26-22.07.09:595][754]LogOnline: OSS: Created online subsystem instance for: :Context_77
+[2024.03.26-22.07.09:690][754]PIE: Server logged in
+[2024.03.26-22.07.09:691][754]PIE: Play in editor total start time 0.278 seconds.
+[2024.03.26-22.07.19:162][ 36]LogNet: Browse: /Game/Reordered/Levels/Outside_House_Weaponless
+[2024.03.26-22.07.19:162][ 36]LogLoad: LoadMap: /Game/Reordered/Levels/Outside_House_Weaponless
+[2024.03.26-22.07.19:162][ 36]LogWorld: BeginTearingDown for /Game/Reordered/Levels/UEDPIE_0_Outside_House_Weaponless
+[2024.03.26-22.07.19:163][ 36]LogWorld: UWorld::CleanupWorld for Outside_House_Weaponless, bSessionEnded=true, bCleanupResources=true
+[2024.03.26-22.07.19:163][ 36]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.26-22.07.19:186][ 36]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.03.26-22.07.19:197][ 36]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2024.03.26-22.07.19:212][ 36]LogPlayLevel: Creating play world package: /Game/Reordered/Levels/UEDPIE_0_Outside_House_Weaponless
+[2024.03.26-22.07.19:216][ 36]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004333s)
+[2024.03.26-22.07.19:216][ 36]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Reordered/Levels/Outside_House_Weaponless.Outside_House_Weaponless to /Game/Reordered/Levels/UEDPIE_0_Outside_House_Weaponless.Outside_House_Weaponless (0.004392s)
+[2024.03.26-22.07.19:216][ 36]LogAudio: Display: Audio Device (ID: 62) registered with world 'Outside_House_Weaponless'.
+[2024.03.26-22.07.19:216][ 36]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.26-22.07.19:216][ 36]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.26-22.07.19:217][ 36]LogAIModule: Creating AISystem for world Outside_House_Weaponless
+[2024.03.26-22.07.19:217][ 36]LogPlayLevel: PIE: World Init took: (0.000918s)
+[2024.03.26-22.07.19:217][ 36]LogLoad: Game class is 'GameMode_C'
+[2024.03.26-22.07.19:224][ 36]LogWorld: Bringing World /Game/Reordered/Levels/UEDPIE_0_Outside_House_Weaponless.Outside_House_Weaponless up for play (max tick rate 60) at 2024.03.27-00.07.19
+[2024.03.26-22.07.19:225][ 36]LogWorld: Bringing up level for play took: 0.008242
+[2024.03.26-22.07.19:314][ 36]LogLoad: Took 0.151748 seconds to LoadMap(/Game/Reordered/Levels/UEDPIE_0_Outside_House_Weaponless)
+[2024.03.26-22.07.20:059][ 58]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.26-22.07.20:059][ 58]LogWorld: BeginTearingDown for /Game/Reordered/Levels/UEDPIE_0_Outside_House_Weaponless
+[2024.03.26-22.07.20:060][ 58]LogWorld: UWorld::CleanupWorld for Outside_House_Weaponless, bSessionEnded=true, bCleanupResources=true
+[2024.03.26-22.07.20:060][ 58]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.26-22.07.20:080][ 58]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.03.26-22.07.20:084][ 58]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.26-22.07.20:102][ 58]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.26-22.07.20:103][ 58]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 62
+[2024.03.26-22.07.20:103][ 58]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=62
+[2024.03.26-22.07.20:105][ 58]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=62
+[2024.03.26-22.07.20:114][ 58]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2024.03.26-22.07.20:237][ 59]LogPlayLevel: Display: Destroying online subsystem :Context_77
+[2024.03.26-22.07.23:677][155]LogSlate: Window 'HealthPickUp' being destroyed
+[2024.03.26-22.07.23:740][155]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2024.03.26-22.07.23:740][155]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
